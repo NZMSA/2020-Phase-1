@@ -1,0 +1,11 @@
+.MediaGridContainer{
+    margin: auto !important;
+    padding: 20px;
+    width: 100% !important;
+}
+
+.MediaGridCard{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}

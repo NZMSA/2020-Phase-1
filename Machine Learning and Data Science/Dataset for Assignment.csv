@@ -1,0 +1,1052 @@
+Bedrooms,Bathrooms,Address,Land area,CV,Latitude,Longitude,SA1,0-19 years,20-29 years,30-39 years,40-49 years,50-59 years,60+ years,Suburbs
+5,3,"106 Lawrence Crescent Hill Park, Auckland",714,960000,-37.0129205,174.9040694,7009770,48,27,24,21,24,21,Manurewa
+5,3,"8 Corsica Way Karaka, Auckland",564,1250000,-37.0636724,174.9229121,7009991,42,18,12,21,15,30,Karaka
+6,4,"243 Harbourside Drive Karaka, Auckland",626,1250000,-37.0635797,174.9240444,7009991,42,18,12,21,15,30,Karaka
+2,1,"2/30 Hardington Street Onehunga, Auckland",65,740000,-36.9129964,174.7874249,7007871,42,6,21,21,12,15,Onehunga
+3,1,"59 Israel Avenue Clover Park, Auckland",601,630000,-36.9790369,174.8926119,7008902,93,27,33,30,21,33,Clover Park
+3,1,"14 Tainui Terrace Mangere Bridge, Auckland",100,1050000,-36.9439289,174.7805015,7007917,63,15,24,33,30,39,Mangere Bridge
+3,1,"54 Kelmarna Avenue Ponsonby, Auckland",531,2525000,-36.8492389,174.7344513,7004908,33,12,18,12,15,9,Ponsonby
+3,2,"39 Rawhiti Road One Tree Hill, Auckland",1024,1400000,-36.9077,174.7960425,7005903,36,33,39,21,12,24,One Tree Hill
+3,2,"17b Tawa Crescent Manurewa, Auckland",80,475000,-37.0333224,174.8981131,7009808,45,27,15,12,12,12,Manurewa
+4,2,"39a Keegan Drive Massey, Auckland",204,660000,-36.8462083,174.6207944,7003826,30,27,36,15,24,12,Massey
+4,2,"39c Keegan Drive Massey, Auckland",170,900000,-36.8462083,174.6207944,7003826,30,27,36,15,24,12,Massey
+4,2,"39b Keegan Drive Massey, Auckland",170,660000,-36.8462083,174.6207944,7003826,30,27,36,15,24,12,Massey
+3,1,"9 Menear Lane Hillcrest, Auckland",637,920000,-36.7925353,174.7272634,7002805,42,33,36,30,24,24,Hillcrest
+3,1,"10 Fairlight Place Manurewa, Auckland",640,570000,-37.0251198,174.879631,7009565,69,33,24,21,15,9,Manurewa
+4,2,"11 Arran Drive Millwater, Auckland",650,1150000,-36.9040755,174.6942569,7004424,54,45,33,18,18,6,Avondale
+3,1,"53a Kimber Hall Avenue Mount Roskill, Auckland",138,1200000,-36.9184475,174.7177085,7007562,51,36,30,18,18,36,Mount Roskill
+2,1,"1/77 Kimber Hall Avenue Mount Roskill, Auckland",75,640000,-36.9185162,174.7192568,7007562,51,36,30,18,18,36,Mount Roskill
+5,3,"42 Johns Creek Crescent Silverdale, Auckland",724,640000,-36.6219389,174.6639437,7001422,51,54,66,24,9,12,Silverdale
+5,3,"4 Ahorangi Road Silverdale, Auckland",429,1180000,-36.6233277,174.6640143,7001422,51,54,66,24,9,12,Silverdale
+5,3,"32 Johns Creek Crescent Silverdale, Auckland",520,590000,-36.6219389,174.6639437,7001422,51,54,66,24,9,12,Silverdale
+3,1,"577 Mt Albert Road Royal Oak, Auckland",1381,2080000,-36.910598,174.7633054,7007751,27,36,24,18,12,9,Royal Oak
+5,4,"109 Aberley Road Schnapper Rock, Auckland",732,1800000,-36.7506011,174.6795585,7002324,63,27,24,51,30,18,Schnapper Rock
+4,2,"19 Kenley Place Avondale, Auckland",799,1145000,-36.8896501,174.6746069,7004268,48,24,30,24,18,27,Avondale
+3,1,"27 Stottholm Road Titirangi, Auckland",1105,920000,-36.9284876,174.6694885,7007391,72,21,30,33,27,15,Titirangi
+3,1,"71 First Avenue Kingsland, Auckland",463,1500000,-36.8721796,174.7386307,7004956,21,33,18,24,21,12,Kingsland
+3,2,"17 Dalwhinnie Parade Highland Park, Auckland",681,1100000,-36.9014454,174.915807,7006932,12,12,15,12,15,24,Highland Park
+3,2,"24a Roberts Road Matakatia Bay, Auckland",4068,710000,-36.6192234,174.7798928,7001678,51,18,15,27,36,42,Matakatia
+2,1,"72 Stonefields Avenue Stonefields, Auckland",106,1020000,-36.887909,174.8432822,7006356,45,18,42,51,18,42,Stonefields
+3,1,"62 Richardson Road Mount Albert, Auckland",713,1150000,-36.8924701,174.7140153,7004636,51,39,15,21,45,33,Mount Albert
+3,2,"47b Comins Crescent Mission Bay, Auckland",211,1600000,-36.8540672,174.8347488,7006277,24,18,27,24,18,51,Mission Bay
+3,2,"26 Fairholme Avenue Epsom, Auckland",402,1280000,-36.9031776,174.7684391,7005632,30,24,18,15,15,30,Epsom
+3,1,"24 Fairholme Avenue Epsom, Auckland",883,2150000,-36.9033021,174.7686074,7005632,30,24,18,15,15,30,Epsom
+5,3,"4 Fairholme Avenue Epsom, Auckland",883,2425000,-36.9037324,174.7707047,7005632,30,24,18,15,15,30,Epsom
+4,3,"4 Fairholme Avenue, Auckland",883 m²,2425000,-36.9037324,174.7707047,7005632,30,24,18,15,15,30,Epsom
+4,1,"7 Rata Place Pukekohe, Auckland",675,435000,-37.1914653,174.8967586,7010341,96,36,24,24,12,9,Pukekohe
+4,3,"19b Hendry Avenue Hillsborough, Auckland",388,1300000,-36.9191013,174.7602332,7007766,51,48,33,30,18,12,Hillsborough
+3,2,"28 Tiraumea Drive Pakuranga, Auckland",1034,1120000,-36.9176375,174.8696662,7008696,90,48,51,27,36,36,Pakuranga
+3,1,"47 Frank Street Oneroa, Auckland",1295,850000,-36.7850631,175.0278712,7003352,30,12,9,15,18,33,Oneroa
+3,2,"52a Sunnyside Road Sunnyvale, Auckland",1102,930000,-36.8970908,174.6382264,7004023,51,15,24,21,12,24,Sunnyvale
+3,2,"21 Capriana Drive Karaka, Auckland",551,1025000,-37.0639294,174.9194913,7009992,51,21,30,21,18,36,Karaka
+3,1,"21 Overton Road Papatoetoe, Auckland",809,930000,-36.9710412,174.8693896,7008633,54,42,39,21,27,36,Papatoetoe
+2,1,"1a Herd Road Hillsborough, Auckland",1108,1225000,-36.916308,174.7598366,7007765,39,39,30,24,24,33,Hillsborough
+6,3,"45 Kensington Terrace Gulf Harbour, Auckland",745,1100000,-36.6089222,174.785329,7001675,75,12,30,51,24,42,Gulf Harbour
+5,3,"15 Harapaki Road Meadowbank, Auckland",613,1925000,-36.8700462,174.8251511,7006190,69,12,42,45,18,18,Meadowbank
+3,1,"25c Pleasant Street Onehunga, Auckland",758,990000,-36.9198143,174.7722528,7007820,33,9,18,21,21,6,Onehunga
+4,2,"40 Rushgreen Avenue Pahurehure, Auckland",727,920000,-37.0648902,174.9286899,7009998,48,21,18,18,39,33,Pahurehure
+2,1,"A/18a Holly Street Avondale, Auckland",59,600000,-36.8900779,174.692387,7004387,57,42,33,21,21,21,Avondale
+4,2,"26A Holly Street, Auckland",260 m²,1025000,-36.8896313,174.6924848,7004387,57,42,33,21,21,21,Avondale
+3,2,"21b Marr Road Manurewa, Auckland",126,630000,-37.0152515,174.880488,7009541,60,36,30,9,18,6,Manurewa
+3,1,"13 Sandringham Road Mount Eden, Auckland",615,1575000,-36.8727657,174.7460271,7005166,27,75,33,24,15,18,Mount Eden
+4,2,"40 Goodwood Drive Goodwood Heights, Auckland",756,1050000,-36.9931422,174.9036367,7009731,75,45,42,27,39,66,Goodwood Heights
+4,1,"50 Arthur Street Manurewa, Auckland",3609,1380000,-37.0172546,174.9074152,7009861,63,27,39,30,6,24,Manurewa
+3,2,"3 Manuka Road Oneroa, Auckland",809,830000,-36.7867738,175.0115024,7003341,18,6,9,21,21,42,Oneroa
+3,1,"160 Gowing Drive Meadowbank, Auckland",431,940000,-36.8688531,174.8403044,7006318,48,45,27,30,27,21,Meadowbank
+4,2,"4 Helios Place Titirangi, Auckland",3648,1520000,-36.9507221,174.6413403,7007223,51,21,15,39,27,27,Titirangi
+4,3,"1 Landing Road Titirangi, Auckland",3177,1400000,-36.9499586,174.6429702,7007223,51,21,15,39,27,27,Titirangi
+5,3,"29b Rukutai Street Orakei, Auckland",545,1725000,-36.8581658,174.8281687,7006178,39,39,33,24,27,27,Orakei
+4,2,"44 Godden Crescent, Auckland",420 m²,2150000,-36.8587685,174.8284616,7006178,39,39,33,24,27,27,Mission Bay
+3,2,"20 Eversleigh Road Belmont, Auckland",481,1325000,-36.8022939,174.7855133,7003315,36,9,12,18,21,12,Belmont
+3,1,"34a Ascot Avenue Remuera, Auckland",279,1220000,-36.8839242,174.8026025,7005999,27,21,15,21,18,24,Remuera
+3,1,"2/4 Nerissa Place Randwick Park, Auckland",120,630000,-37.0230935,174.9208854,7009958,54,21,21,15,9,9,Randwick Park
+4,2,"31 Rapallo Place Farm Cove, Auckland",1037,1400000,-36.8949914,174.8937769,7006737,54,21,30,27,21,24,Farm Cove
+4,3,"37b Kelvin Road Remuera, Auckland",202,1340000,-36.8763644,174.8190155,7006075,54,12,27,30,24,45,Remuera
+4,2,"46 Waiatarua Road Remuera, Auckland",1031,2450000,-36.8762123,174.8199745,7006075,54,12,27,30,24,45,Remuera
+4,2,"46 Waiatarua Road Remuera, Auckland",1031,2450000,-36.8762123,174.8199745,7006075,54,12,27,30,24,45,Remuera
+3,1,"6 Dorendia Place Clendon Park, Auckland",602,530000,-37.0252348,174.8630015,7009471,105,48,42,27,30,12,Clendon Park
+4,2,"63 John Street Pukekohe, Auckland",810,730000,-37.2133962,174.9054744,7010539,48,15,12,27,27,36,Pukekohe
+3,1,"70 Rimu Street New Lynn, Auckland",475,810000,-36.903786,174.6686326,7004296,30,21,27,24,12,21,New Lynn
+3,1,"52 Easton Park Parade Glenfield, Auckland",736,1170000,-36.7780575,174.7153418,7002617,45,42,30,18,15,30,Glenfield
+3,1,"7a Eulogy Place Randwick Park, Auckland",110,540000,-37.0289075,174.9155234,7009880,54,18,18,18,9,6,Randwick Park
+4,1,"6/25 Solveig Place Randwick Park, Auckland",99,485000,-37.0297993,174.911026,7009882,93,66,39,24,18,9,Randwick Park
+3,2,"2/13a Easter Parade Glen Eden, Auckland",153,790000,-36.9208765,174.6304169,7007125,72,24,30,33,33,51,Glen Eden
+5,3,"5a Abbotts Way Remuera, Auckland",245,1240000,-36.8888684,174.8125681,7006106,57,42,45,42,9,30,Remuera
+4,1,"4 Marua Road, Auckland",2567 m²,2725000,-36.889369,174.813201,7006106,57,42,45,42,9,30,Ellerslie
+3,1,"966 Kaipara Flats Road Kaipara Flats, Auckland",1500,680000,-36.4065732,174.5450829,7001269,54,9,18,30,30,33,Kaipara Flats
+3,2,"37 Jaemont Avenue Te Atatu South, Auckland",885,860000,-36.8646972,174.6521841,7004112,33,30,15,33,27,21,Te Atatu South
+4,3,"10 Sussex Street Grey Lynn, Auckland",480,2275000,-36.8625187,174.7474227,7005129,21,30,27,24,18,21,Grey Lynn
+4,2,"50b Camp Road Mount Wellington, Auckland",377,850000,-36.9314956,174.8467009,7008343,51,57,42,27,30,39,Mount Wellington
+3,1,"68 Walters Road Mount Wellington, Auckland",688,780000,-36.931371,174.8475282,7008343,51,57,42,27,30,39,Mount Wellington
+6,3,"32 Red Hills Road Massey, Auckland",10557,1945000,-36.8395657,174.5907986,7003463,42,24,15,30,27,33,Massey
+2,1,"41 Ballarat Street Ellerslie, Auckland",405,1000000,-36.8950171,174.8242295,7006236,42,15,48,39,12,24,Ellerslie
+3,2,"17a Foxlaw Street Randwick Park, Auckland",561,710000,-37.0223681,174.9209532,7009955,87,24,33,39,21,27,Randwick Park
+4,2,"30 Kuaka Drive Takanini, Auckland",255,810000,-37.0414044,174.9349884,7010021,75,72,66,33,15,15,Takanini
+5,3,"144 Arran Point Parade Orewa, Auckland",519,540000,-36.5930625,174.6780098,7001409,0,0,0,0,0,0,Orewa
+4,2,"106 Godfrey Drive Orewa, Auckland",650,590000,-36.5908865,174.66932,7001409,0,0,0,0,0,0,Orewa
+4,2,"135 Godfrey Drive Orewa, Auckland",602,1075000,-36.5908865,174.66932,7001409,0,0,0,0,0,0,Orewa
+5,3,"17 Davey Crescent Orewa, Auckland",650,1250000,-36.5903256,174.6681286,7001409,0,0,0,0,0,0,Orewa
+5,3,"32 Cassidy Drive Orewa, Auckland",519,1225000,-36.5937888,174.6739169,7001409,0,0,0,0,0,0,Orewa
+5,3,"130 Arran Point Parade Orewa, Auckland",522,540000,-36.5930625,174.6780098,7001409,0,0,0,0,0,0,Orewa
+5,3,"7 Maka Terrace Orewa, Auckland",651,1260000,-36.5936147,174.6773247,7001409,0,0,0,0,0,0,Orewa
+4,2,"111 Godfrey Drive Orewa, Auckland",559,1050000,-36.5908865,174.66932,7001409,0,0,0,0,0,0,Orewa
+5,3,"16 Gospel Heights (arrowsmith Dr) Flat Bush, Auckland",420,1200000,-36.9861529,174.9072372,7009106,45,48,30,18,24,24,Flat Bush
+3,2,"25 Porter Crescent Helensville, Auckland",472,720000,-36.6774692,174.4522649,7001739,33,24,9,15,24,48,Helensville
+3,1,"14 Stainton Place Otara, Auckland",1067,580000,-36.9563698,174.8892654,7008844,45,27,12,15,15,15,Otara
+3,1,"20 Blampied Road Otara, Auckland",726,570000,-36.9558048,174.8879416,7008844,45,27,12,15,15,15,Otara
+3,2,"627b Manukau Road Epsom, Auckland",251,1300000,-36.9047954,174.7739675,7007786,21,15,18,12,18,18,Epsom
+5,2,"1/43 Shanaway Rise Hillcrest, Auckland",220,1225000,-36.8001663,174.7338294,7002953,42,33,21,21,6,18,Hillcrest
+5,3,"18 Coolaghy Drive Flat Bush, Auckland",420,1250000,-36.9717771,174.918647,7009239,39,21,30,18,9,12,Flat Bush
+4,2,"30 Glenelg Road Red Beach, Auckland",1467,970000,-36.6109852,174.7127236,7001568,24,12,15,12,18,42,Red Beach
+4,1,"40 Freeland Avenue Mount Roskill, Auckland",701,1000000,-36.9157998,174.7343942,7007615,42,33,24,18,12,21,Mount Roskill
+4,2,"121 Harbourside Drive Karaka, Auckland",826,980000,-37.0678773,174.9257112,7009995,60,21,48,39,27,30,Karaka
+4,2,"157 Harbourside Drive Karaka, Auckland",743,990000,-37.0650699,174.9247589,7009995,60,21,48,39,27,30,Karaka
+3,1,"56a Orion Street Papakura, Auckland",272,680000,-37.0718788,174.9563186,7010203,99,48,30,21,24,15,Papakura
+6,2,"58a Coxhead Road Manurewa, Auckland",672,1030000,-37.0311051,174.8925232,7009684,57,51,18,15,21,15,Manurewa
+3,2,"31 West Lynn Road Titirangi, Auckland",772,920000,-36.9218767,174.6646886,7007317,57,15,24,27,30,36,Titirangi
+3,1,"79 Wellington Street Pukekohe, Auckland",318,600000,-37.2096583,174.8966255,7010504,45,42,18,33,27,33,Pukekohe
+4,2,"28 Weldene Avenue Glenfield, Auckland",895,920000,-36.7742099,174.7252303,7002758,18,18,18,15,12,24,Glenfield
+9,5,"54 Central Avenue Papatoetoe, Auckland",2028,1350000,-36.9754883,174.8644449,7008648,39,27,21,15,21,21,Papatoetoe
+3,1,"199 Balmoral Road Mount Eden, Auckland",371,900000,-36.8864339,174.7458609,7005199,57,33,36,30,18,15,Mount Eden
+2,2,"312-1 Kimiora Street Three Kings, Auckland",93,920000,-36.9042822,174.7588224,7005473,0,12,0,0,0,0,Three Kings
+3,2,"34 Kimiora Street Three Kings, Auckland",286,1340000,-36.9036375,174.7584188,7005473,0,12,0,0,0,0,Three Kings
+3,1,"6 Larch Street Avondale, Auckland",429,850000,-36.9000071,174.6938496,7004415,33,27,30,15,21,21,Avondale
+3,1,"58 Arodella Crescent Ranui, Auckland",623,630000,-36.8574435,174.6001268,7003539,60,30,18,15,15,27,Ranui
+6,2,"264 Sunset Road Sunnynook, Auckland",479,1325000,-36.7502525,174.7350724,7002875,51,48,45,27,30,24,Windsor Park
+3,2,"53a Landscape Road Mount Eden, Auckland",113,1140000,-36.8980978,174.7566046,7005463,30,72,24,18,21,15,Mount Eden
+4,2,"15a Forrest Hill Road Milford, Auckland",469,1745000,-36.7781846,174.7508405,7003086,63,36,42,30,30,18,Milford
+3,1,"35 Grand View Road Leigh, Auckland",898,740000,-36.2986271,174.7986484,7001158,18,6,9,12,27,48,Leigh
+3,2,"10 Barrister Avenue Mount Roskill, Auckland",370,1120000,-36.906798,174.7543779,7005250,63,18,21,12,6,18,Mount Roskill
+3,2,"4/61 Birdwood Avenue Papatoetoe, Auckland",120,580000,-36.9779943,174.8681825,7008656,42,42,30,24,21,21,Papatoetoe
+3,1,"66d Woodglen Road Glen Eden, Auckland",422,670000,-36.915067,174.6456471,7007252,48,9,15,30,12,21,Glen Eden
+4,3,"68 Glen Marine Parade Glendene, Auckland",868,800000,-36.8820848,174.6567039,7004220,45,27,33,24,15,30,Glendene
+3,1,"7 Le Havre Place Takanini, Auckland",880,580000,-37.039314,174.921063,7009970,33,51,24,15,12,24,Takanini
+4,2,"152 Grey Street Onehunga, Auckland",690,1175000,-36.9175628,174.7935673,7007983,66,33,48,36,27,33,Onehunga
+4,3,"1 Taupinga Way Takanini, Auckland",238,800000,-37.0443323,174.927343,7010024,60,66,72,27,21,9,Takanini
+4,2,"60 Hill Street Onehunga, Auckland",569,1325000,-36.920718,174.7803187,7007906,21,21,15,18,27,27,Onehunga
+4,2,"181 Drury Hills Road Drury, Auckland",8000,1510000,-37.1162369,174.978964,7010270,39,27,18,27,45,69,Drury
+4,3,"115 Macwhinney Drive Drury, Auckland",8129,1620000,-37.1206153,174.9833398,7010270,39,27,18,27,45,69,Drury
+3,1,"34 Queensway Three Kings, Auckland",447,1360000,-36.9069089,174.7602285,7005474,51,36,18,24,27,36,Three Kings
+4,2,"7 Caram Place Birkenhead, Auckland",744,920000,-36.807162,174.7112039,7002670,36,15,30,21,21,3,Birkenhead
+3,1,"5 Charlotte Street Stanmore Bay, Auckland",630,870000,-36.6246599,174.7297045,7001611,72,27,18,30,33,30,Stanmore Bay
+3,1,"275 Puhinui Road Papatoetoe, Auckland",415,660000,-36.9913062,174.8484964,7009392,45,45,30,21,18,24,Papatoetoe
+3,1,"1/25 Abraham Place St Johns, Auckland",93,850000,-36.8736688,174.8480004,7006441,36,27,42,21,6,15,Saint Johns
+3,2,"35 Birkdale Road Birkdale, Auckland",804,1050000,-36.8046583,174.7047238,7002550,30,36,33,21,24,18,Birkdale
+2,1,"51 Clarence Street Ponsonby, Auckland",323,1625000,-36.8481167,174.73943,7004881,39,33,27,33,33,21,Ponsonby
+3,2,"3 Fallsbrook Lane Mangere Bridge, Auckland",810,1625000,-36.9469952,174.7786568,7007923,39,18,36,18,24,51,Mangere Bridge
+3,2,"34 Parry Road Mount Wellington, Auckland",728,910000,-36.9332231,174.8467702,7008462,15,30,21,12,9,15,Mount Wellington
+4,3,"8 Wawatai Drive Karaka, Auckland",580,1175000,-37.0800841,174.9260771,7010002,81,15,51,45,21,36,Karaka
+2,2,"2/18 Cleary Road Panmure, Auckland",140,790000,-36.9011618,174.8510364,7006467,21,39,21,12,9,9,Panmure
+3,2,"10 Belmont Place Warkworth, Auckland",606,830000,-36.3955453,174.6535508,7001213,51,15,27,27,21,30,Warkworth
+6,4,"164 Wade River Road Arkles Bay, Auckland",325,1825000,-36.6418176,174.7328175,7001628,24,15,9,9,21,24,Wade Heads
+4,1,"36 Ngapuhi Road Remuera, Auckland",175,1775000,-36.8768474,174.8147784,7006080,39,6,21,18,27,15,Remuera
+4,2,"5 Gulliver Road Conifer Grove, Auckland",663,880000,-37.0465768,174.9117585,7009901,51,39,24,33,45,39,Conifer Grove
+3,1,"117 Settlement Road Papakura, Auckland",422,520000,-37.0654435,174.9672078,7010237,99,33,27,33,18,24,Papakura
+3,1,"14 Chantal Place Red Hill, Auckland",582,470000,-37.0661128,174.9674898,7010237,99,33,27,33,18,24,Red Hill
+4,2,"104 Joseph Street Flat Bush, Auckland",292,800000,-36.9865204,174.9079425,7009107,36,48,36,9,6,0,Flat Bush
+3,2,"73 Joseph Street Flat Bush, Auckland",144,420000,-36.9860731,174.9084137,7009107,36,48,36,9,6,0,Flat Bush
+3,2,"278 Burtt Road Pukekohe, Auckland",310,1250000,-37.1463039,174.929007,7010364,27,6,18,9,15,24,Paerata
+2,1,"43 Tautari Street Orakei, Auckland",849,2275000,-36.8569511,174.818547,7006050,42,15,21,27,21,39,Orakei
+5,3,"45 Tautari Street Orakei, Auckland",1032,2625000,-36.8568781,174.8186995,7006050,42,15,21,27,21,39,Orakei
+3,1,"2 Kilcar Place Massey, Auckland",446,560000,-36.8412486,174.6043601,7003521,48,30,27,27,21,21,Massey
+4,1,"17 Albion Place Papakura, Auckland",951,680000,-37.0679354,174.9598568,7010199,87,48,27,21,33,18,Papakura
+3,2,"71b Settlement Road Papakura, Auckland",571,670000,-37.066514,174.9580746,7010199,87,48,27,21,33,18,Papakura
+5,3,"8 Della Place Conifer Grove, Auckland",877,1490000,-37.0516846,174.9061423,7009906,36,21,12,30,27,42,Conifer Grove
+4,2,"67 Verran Road Birkenhead, Auckland",809,830000,-36.8046178,174.7120348,7002666,54,36,33,30,15,21,Birkenhead
+7,2,"33 Haslett Street Eden Terrace, Auckland",333,1400000,-36.8661486,174.7537918,7005141,24,42,21,12,12,15,Eden Terrace
+3,1,"120 Portage Road New Lynn, Auckland",1513,1005000,-36.92032,174.6919081,7007481,30,15,15,9,12,6,New Lynn
+3,2,"5/16 Duncan Avenue Te Atatu South, Auckland",528,850000,-36.8770274,174.640536,7003976,27,18,21,12,6,18,Te Atatu South
+3,1,"11 Tangaroa Street Point England, Auckland",636,1040000,-36.8901125,174.8659207,7006581,57,27,18,15,18,12,Point England
+5,3,"10 Kouras Place Flat Bush, Auckland",417,1225000,-36.959775,174.9326109,7009292,39,12,21,21,15,3,Flat Bush
+3,2,"2/34 Walpole Avenue Manurewa, Auckland",170,630000,-37.0146766,174.8984662,7009772,51,39,39,27,18,36,Manurewa
+3,1,"4 Sally Crescent Mount Roskill, Auckland",658,990000,-36.9094537,174.7238505,7007592,45,45,24,30,18,39,Mount Roskill
+4,2,"61 Otitori Bay Road Titirangi, Auckland",1573,825000,-36.9465931,174.6634799,7007342,48,9,15,33,18,21,Titirangi
+9,4,"Glendowie  Auckland City  1071 Glendowie, Auckland",1843,2200000,-36.8603096,174.8693018,7006635,30,18,3,18,21,12,Glendowie
+4,2,"9 Colchester Avenue Glendowie, Auckland",404,2050000,-36.8596209,174.8696361,7006635,30,18,3,18,21,12,Glendowie
+2,1,"19 Gwilliam Place Freemans Bay, Auckland",176,1500000,-36.8506282,174.7506425,7005093,21,27,21,15,15,48,Freemans Bay
+3,1,"23 Mountain Road Mount Wellington, Auckland",80,960000,-36.895639,174.8455024,7006461,27,12,27,24,18,15,Mount Wellington
+4,2,"10 Willoughby Avenue Howick, Auckland",683,970000,-36.8976911,174.9135872,7006911,69,24,27,33,12,27,Howick
+4,3,"64 Selman Road Dairy Flat, Auckland",380,2525000,-36.6374487,174.6341666,7001771,57,18,27,30,39,54,Dairy Flat
+3,2,"4 Hilltop Street Remuera, Auckland",117,1220000,-36.8834323,174.8158046,7006097,63,30,42,39,24,30,Remuera
+5,3,"60 Fernhill Way Albany, Auckland",555,1345000,-36.7233994,174.7200758,7001859,48,42,30,21,21,30,Oteha
+4,3,"201b Jervois Road Herne Bay, Auckland",763,4700000,-36.8470899,174.7318972,7004701,45,24,15,30,33,39,Herne Bay
+4,2,"8 Balmain Road Birkenhead, Auckland",230,1100000,-36.8118318,174.7101814,7004547,60,24,36,36,24,66,Chatswood
+2,1,"37 Bluegrey Avenue Stonefields, Auckland",104,1020000,-36.8865576,174.8404341,7006346,27,42,24,21,18,27,Stonefields
+3,1,"20 Zelda Avenue Clover Park, Auckland",600,630000,-36.9779202,174.8961056,7008964,63,36,24,27,24,30,Clover Park
+3,2,"2/1255 Dominion Rd Ext Mount Roskill, Auckland",166,830000,-36.9209207,174.7357439,7007672,81,39,60,30,21,27,Mount Roskill
+4,2,"10 Huahua Crescent Papakura, Auckland",519,470000,-37.0493856,174.9728908,7010211,123,99,93,39,39,18,Papakura
+5,3,"22 Huahua Crescent Papakura, Auckland",528,470000,-37.0502164,174.9729363,7010211,123,99,93,39,39,18,Papakura
+5,3,"77 Twin Parks Rise Papakura, Auckland",603,480000,-37.049918,174.9724182,7010211,123,99,93,39,39,18,Papakura
+3,1,"41 Rathmar Drive Manurewa, Auckland",439,780000,-37.0149574,174.9150224,7009850,45,24,33,27,36,36,Manurewa
+3,1,"8 Justamere Place Weymouth, Auckland",600,530000,-37.0425095,174.8673894,7009515,78,33,39,24,30,24,Weymouth
+3,1,"8 Justamere Place Weymouth, Auckland",600,530000,-37.0425095,174.8673894,7009515,78,33,39,24,30,24,Weymouth
+3,2,"129 Hobsonville Road West Harbour, Auckland",368,880000,-36.8152696,174.6288851,7003789,45,30,15,27,24,36,West Harbour
+3,1,"92 Buckville Road Buckland, Auckland",1012,2112000,-37.2271956,174.938891,7010971,39,6,9,24,18,36,Buckland
+4,4,"9 Darwin Lane Remuera, Auckland",2718,9000000,-36.871836,174.813689,7005974,27,12,6,18,18,36,Remuera
+4,4,"9 Darwin Lane Remuera, Auckland",2718,9000000,-36.871836,174.813689,7005974,27,12,6,18,18,36,Remuera
+4,2,"2/73 Speight Road St Heliers, Auckland",191,1825000,-36.8534844,174.8493027,7006399,48,24,21,30,27,36,St Heliers
+2,2,"21 Skip Lane East Tamaki, Auckland",173,590000,-36.9433827,174.9015482,7008935,24,24,45,15,15,6,East Tamaki
+3,1,"45 Richard Farrell Avenue Remuera, Auckland",1070,1875000,-36.8867682,174.8134448,7006010,48,15,27,27,12,30,Remuera
+3,2,"279c Royal Road Massey, Auckland",586,830000,-36.8324006,174.6328539,7003938,84,36,36,42,27,30,Massey
+4,2,"4 Yorkton Rise Mangere Bridge, Auckland",723,1460000,-36.9420311,174.7676723,7007837,27,9,9,21,15,30,Mangere Bridge
+2,1,"8/42a Park Avenue Papatoetoe, Auckland",90,455000,-36.9763865,174.8391374,7008426,54,45,33,18,24,18,Papatoetoe
+5,2,"1/54 Tirimoana Road Te Atatu South, Auckland",260,890000,-36.8843686,174.6504321,7004156,60,27,24,30,18,18,Te Atatu South
+6,3,"38 Tirimoana Road Te Atatu South, Auckland",210,1000000,-36.8848921,174.6490515,7004156,60,27,24,30,18,18,Te Atatu South
+3,2,"2/36 Tarawera Terrace St Heliers, Auckland",138,1220000,-36.861919,174.8521385,7006422,45,12,24,33,30,48,St Heliers
+1,1,"29j Springs Road Helensville, Auckland",59,325000,-36.6574444,174.4331618,7001725,45,18,21,21,24,24,Parakai
+4,2,"1 Beltrees Lane Pokeno, Auckland",846,610000,-37.0481046,174.860194,7009434,108,42,39,36,27,33,Weymouth
+4,2,"32 Leicester Parade Somerville, Auckland",1047,1470000,-36.9188242,174.9314074,7009263,33,27,15,30,21,42,Somerville
+5,3,"39c Rockfield Road Ellerslie, Auckland",375,1400000,-36.9044113,174.8042319,7006032,72,81,60,36,33,27,Ellerslie
+3,2,"69 Rockfield Road, Auckland",474 m²,1250000,-36.9059587,174.8045209,7006032,72,81,60,36,33,27,Penrose
+7,2,"10 Roys Road Weymouth, Auckland",2931,1600000,-37.0513811,174.861198,7009435,72,42,24,36,33,39,Weymouth
+3,2,"16 Percy Winstone Lane Stonefields, Auckland",261,1240000,-36.8894305,174.8342189,7006345,66,48,54,33,39,39,Stonefields
+3,2,"16 Percy Winstone Lane Stonefields, Auckland",261,1240000,-36.8894305,174.8342189,7006345,66,48,54,33,39,39,Stonefields
+3,1,"3 Olsen Avenue Hillsborough, Auckland",462,860000,-36.921234,174.7544716,7007731,48,48,33,24,33,36,Hillsborough
+5,3,"163 Orakei Road Remuera, Auckland",701,2450000,-36.8680962,174.8061183,7005969,45,24,15,27,36,33,Remuera
+3,2,"13 Brinlack Drive Dannemora, Auckland",400,880000,-36.9383856,174.9099931,7009036,42,12,24,21,18,18,East Tamaki
+4,2,"68 Tramway Road Beach Haven, Auckland",550,780000,-36.7916732,174.6900185,7002447,42,27,36,18,12,12,Beach Haven
+5,2,"24 Moss Crescent Takanini, Auckland",650,950000,-37.0530507,174.9228935,7009985,27,27,18,27,36,45,Takanini
+4,1,"5/10 Rathgar Road Henderson, Auckland",140,775000,-36.8690454,174.6197892,7003702,42,18,15,27,24,24,Henderson
+3,2,"352l Kohimarama Road Kohimarama, Auckland",137,870000,-36.8669263,174.8451884,7006419,54,27,21,39,27,45,St Heliers
+4,1,"65 Tirimoana Road Te Atatu South, Auckland",160,830000,-36.885174,174.6509948,7004159,66,51,33,24,24,27,Te Atatu South
+4,2,"25b Rangeview Road Sunnyvale, Auckland",922,860000,-36.8993074,174.6348866,7004028,102,39,45,36,15,36,Sunnyvale
+3,2,"47c Rangeview Road Sunnyvale, Auckland",114,725000,-36.9006722,174.6350647,7004028,102,39,45,36,15,36,Sunnyvale
+5,3,"23 Waikura Drive Te Atatu Peninsula, Auckland",686,1735000,-36.8360926,174.6603779,7004203,39,27,24,15,27,15,Te Atatu Peninsula
+3,1,"383 West Coast Road Glen Eden, Auckland",1012,850000,-36.9085972,174.6380186,7007167,63,36,42,36,27,30,Glen Eden
+5,3,"13 Thistle Close Beachlands, Auckland",470,1400000,-36.8869923,175.0062139,7007066,60,9,18,48,21,30,Beachlands
+5,3,"21 Thistle Close Beachlands, Auckland",490,1350000,-36.8875673,175.0061298,7007066,60,9,18,48,21,30,Beachlands
+5,2,"81 Ahutoetoe Road Millwater, Auckland",569,980000,-36.6122979,174.6567144,7001403,36,12,9,27,15,27,Wainui
+4,2,"45 Kuhanui Drive Karaka, Auckland",550,1025000,-37.0779534,174.9188179,7009928,201,99,168,114,81,120,Karaka
+3,2,"43 Costa Viva Crescent Karaka, Auckland",220,810000,-37.0775661,174.9201295,7009928,201,99,168,114,81,120,Karaka
+5,3,"39 Silvana Drive Flat Bush, Auckland",404,1250000,-36.9644035,174.927909,7009304,69,42,60,30,24,30,Flat Bush
+3,1,"15 Kirikiri Lane East Tamaki, Auckland",154,820000,-36.9337122,174.9080707,7009025,30,18,36,21,12,12,East Tamaki
+3,1,"11 Arodella Crescent Ranui, Auckland",952,670000,-36.8587178,174.599451,7003540,57,27,30,18,12,15,Ranui
+4,2,"44d Mountain Road Epsom, Auckland",1074,3200000,-36.8700679,174.7703548,7005559,33,27,24,9,39,54,Epsom
+4,2,"10 Eyton Kay Road Hobsonville, Auckland",161,860000,-36.7959507,174.65593,7002301,51,36,57,18,6,12,Hobsonville
+3,1,"268 Jervois Road Herne Bay, Auckland",473,2275000,-36.8474028,174.7324135,7004901,57,21,15,30,15,18,Herne Bay
+4,2,"1/1 Woodcote Drive Glenfield, Auckland",170,920000,-36.7875914,174.7224742,7002794,39,36,36,18,30,48,Glenfield
+4,2,"109 Blockhouse Bay Road Avondale, Auckland",689,1075000,-36.8952693,174.7006602,7004406,12,9,12,21,15,48,Avondale
+3,1,"109a Blockhouse Bay Road Avondale, Auckland",348,1025000,-36.8952693,174.7006602,7004406,12,9,12,21,15,48,Avondale
+4,2,"74 Tarrant Road Waimauku, Auckland",15230,1325000,-36.7338896,174.456874,7001370,36,12,9,24,21,18,Helensville
+4,2,"45 Arrowsmith Road Waitakere, Auckland",260,1275000,-36.8465434,174.5210115,7003415,24,12,9,21,12,27,Waitakere
+2,1,"14/127 Boundary Road Blockhouse Bay, Auckland",106,740000,-36.9197572,174.7118763,7007570,0,3,0,3,0,231,Blockhouse Bay
+5,3,"1/134 Aberdeen Road Campbells Bay, Auckland",310,1525000,-36.7527733,174.7608761,7003148,57,21,27,27,27,27,Campbells Bay
+3,1,"144 Forrest Hill Road Forrest Hill, Auckland",345,990000,-36.7663399,174.7477823,7003063,57,48,42,33,24,15,Forrest Hill
+4,2,"9 Vivaldi Place Mount Roskill, Auckland",523,1225000,-36.911034,174.7241676,7007593,24,15,12,12,18,33,Mount Roskill
+3,1,"5a Fir Street Waterview, Auckland",616,985000,-36.8813662,174.7009228,7004492,42,51,45,33,15,12,Waterview
+4,2,"18 Routly Avenue Pukekohe, Auckland",1012,960000,-37.2203656,174.894608,7010519,24,12,9,12,24,27,Pukekohe
+4,3,"35 Pinehurst Place Wattle Downs, Auckland",600,820000,-37.0520531,174.8876043,7009719,57,18,30,18,24,39,Wattle Downs
+3,1,"18a Sophora Place Totara Heights, Auckland",120,780000,-37.0000106,174.900693,7009752,72,27,42,36,21,36,Totara Heights
+3,2,"7 Antilla Place Half Moon Bay, Auckland",703,1380000,-36.8876708,174.8932567,7006719,54,21,27,36,24,60,Half Moon Bay
+4,2,"5 Knox Road Manurewa, Auckland",984,720000,-37.020317,174.9003727,7009781,39,27,21,24,21,21,Manurewa
+3,2,"14a Clyma Place Massey, Auckland",386,540000,-36.8484767,174.6098376,7003657,36,33,27,15,15,15,Massey
+4,3,"1/103 Remuera Road Remuera, Auckland",222,1800000,-36.8736187,174.782018,7005727,18,42,33,9,12,15,Remuera
+3,2,"4/17 Margot Street Epsom, Auckland",170,940000,-36.8780671,174.7776435,7005577,21,21,21,9,15,6,Epsom
+3,2,"11 Marie Costello Way Beach Haven, Auckland",400,940000,-36.7887517,174.6926609,7002422,60,18,42,39,24,33,Beach Haven
+3,2,"11 Marie Costello Way Beach Haven, Auckland",400,940000,-36.7887517,174.6926609,7002422,60,18,42,39,24,33,Beach Haven
+3,1,"81a Waiatarua Road Remuera, Auckland",152,1160000,-36.8725755,174.8199281,7006072,72,15,33,33,24,48,Remuera
+3,3,"156 Mokoia Road Birkenhead, Auckland",922,1650000,-36.8113451,174.715828,7004545,30,30,27,27,24,48,Chatswood
+4,3,"17 Voyager Drive Gulf Harbour, Auckland",428,960000,-36.6170889,174.7922216,7001695,60,15,21,33,33,63,Gulf Harbour
+4,1,"95 Shakespear Road Army Bay, Auckland",5088,1900000,-36.6083432,174.8071064,7001715,36,6,9,18,33,39,Army Bay
+4,3,"9 Crosshill Court Pokeno, Auckland",523,570000,-37.2380653,175.012596,7011028,9,18,12,6,21,18,Pokeno
+4,2,"1 Hua Place Tuakau, Auckland",507,850000,-37.257722,174.9388626,7010975,72,27,18,24,27,6,Tuakau
+2,1,"2/519 Pakuranga Road Howick, Auckland",70,670000,-36.8989759,174.9106721,7006853,33,18,12,12,21,33,Howick
+3,2,"21a Benson Road Remuera, Auckland",167,1650000,-36.8728739,174.8072187,7005981,39,12,12,24,21,24,Remuera
+4,2,"7 Condliffe Place New Windsor, Auckland",956,990000,-36.902183,174.7117372,7004659,66,60,42,30,24,24,New Windsor
+3,1,"1 Weldene Avenue Glenfield, Auckland",822,990000,-36.7735462,174.7230032,7002759,27,15,33,15,9,15,Glenfield
+4,1,"48 Burundi Avenue Clendon Park, Auckland",613,650000,-37.0279286,174.8618223,7009491,96,27,42,15,15,24,Clendon Park
+2,1,"9 Donovan Avenue Massey, Auckland",814,750000,-36.8458463,174.6094348,7003531,45,36,30,27,18,21,Massey
+3,1,"21 Golf Avenue Otahuhu, Auckland",718,650000,-36.954143,174.8387028,7008379,66,48,36,30,21,36,Otahuhu
+3,1,"34 Saxon Street Waterview, Auckland",1358,1820000,-36.8788108,174.6951502,7004376,33,21,33,36,30,21,Waterview
+2,1,"257a Campbell Road Greenlane, Auckland",365,1175000,-36.8953984,174.7989407,7005916,30,42,33,12,6,24,Greenlane
+3,2,"5c Gollan Road Mount Wellington, Auckland",314,1140000,-36.89394,174.8433845,7006363,48,15,30,36,9,21,Mount Wellington
+4,2,"40 Constellation Avenue Beachlands, Auckland",872,1245000,-36.8842814,175.0094947,7007062,48,3,15,30,12,9,Beachlands
+3,2,"10 Elizabeth Drive West Harbour, Auckland",388,680000,-36.8218485,174.6252384,7003777,39,30,21,15,15,9,West Harbour
+5,3,"139d Long Drive St Heliers, Auckland",416,2300000,-36.8603424,174.8532553,7006416,48,12,24,30,18,39,St Heliers
+4,3,"9b Allendale Road Mount Albert, Auckland",254,2175000,-36.8846936,174.7175628,7004622,36,21,24,30,18,24,Mount Albert
+4,3,"9c Allendale Road Mount Albert, Auckland",254,2775000,-36.8846936,174.7175628,7004622,36,21,24,30,18,24,Mount Albert
+6,3,"34d Arney Crescent Remuera, Auckland",602,6400000,-36.8699368,174.7889205,7005846,36,6,6,18,21,30,Remuera
+3,2,"5 Gerda Place Ranui, Auckland",742,950000,-36.8734548,174.5973287,7003490,36,27,21,24,27,36,Ranui
+3,2,"13b Kelsey Crescent Hillsborough, Auckland",186,900000,-36.9201159,174.7596961,7007767,78,42,54,36,30,42,Hillsborough
+4,3,"2/7 Ferguson Street Mangere, Auckland",204,640000,-36.9633767,174.8271193,7008282,69,36,15,21,12,15,Mangere East
+4,3,"3/7 Ferguson Street Mangere, Auckland",204,640000,-36.9633767,174.8271193,7008282,69,36,15,21,12,15,Mangere East
+4,2,"71 Roberta Avenue Glendowie, Auckland",902,2450000,-36.8686782,174.8757624,7006644,39,15,9,27,30,27,Glendowie
+3,1,"254 West Tamaki Road Glendowie, Auckland",921,1600000,-36.8687323,174.8755048,7006644,39,15,9,27,30,27,Wai O Taiki Bay
+3,1,"20 Pasadena Avenue Point Chevalier, Auckland",714,1450000,-36.8663135,174.7172836,7004584,63,21,21,36,33,18,Point Chevalier
+5,3,"121 Kawakawa Bay Coast Road Kawakawa Bay, Auckland",1501,1730000,-36.9344967,175.1875645,7007094,15,15,3,15,36,33,Kawakawa Bay
+4,2,"44 Searle Drive Patumahoe, Auckland",2566,1250000,-37.1829197,174.8261951,7010325,90,21,63,48,27,48,Patumahoe
+4,2,"2 Mirabell Place Patumahoe, Auckland",695,930000,-37.1853453,174.8271943,7010325,90,21,63,48,27,48,Patumahoe
+3,1,"2/45 Seabrook Avenue New Lynn, Auckland",150,710000,-36.9153926,174.6740353,7007358,57,42,27,33,24,33,New Lynn
+4,2,"42 Parrish Road Sandringham, Auckland",133,1280000,-36.8817233,174.743893,7004990,57,30,15,27,30,15,Sandringham
+2,1,"39 Edenvale Crescent Mount Eden, Auckland",359,1400000,-36.8713508,174.7592943,7005389,30,27,39,21,6,12,Mount Eden
+4,2,"15a Rawhitiroa Road Kohimarama, Auckland",400,1800000,-36.8546877,174.8386994,7006292,33,6,12,18,21,36,Kohimarama
+3,2,"29 Onetangi Road Onetangi, Auckland",1618,1080000,-36.7933277,175.0791116,7003392,39,9,24,21,24,51,Onetangi
+4,2,"65 Matairangi Avenue Totara Heights, Auckland",253,720000,-37.0017271,174.9036267,7009753,45,33,24,21,30,30,Totara Heights
+4,2,"42 Tawini Road Titirangi, Auckland",2856,1270000,-36.9313836,174.6375088,7007210,54,12,15,30,24,18,Titirangi
+7,4,"407 Ormiston Road Flat Bush, Auckland",399,1450000,-36.96827,174.9306696,7009312,126,72,90,51,36,42,Flat Bush
+4,2,"297a Mount Albert Road Sandringham, Auckland",115,1000000,-36.9011595,174.7359376,7005056,57,36,30,18,15,24,Wesley
+3,3,"15 Malmo Place Manurewa, Auckland",635,710000,-37.0205915,174.8684589,7009455,96,39,21,33,15,21,Manurewa
+4,2,"27 Westminster Gardens Unsworth Heights, Auckland",600,1055000,-36.7593163,174.7118647,7002590,66,33,39,27,42,51,Unsworth Heights
+5,2,"13 Rogers Avenue Eastern Beach, Auckland",883,1560000,-36.8751058,174.9141234,7006877,30,15,12,18,39,45,Eastern Beach
+3,2,"59/386 Richmond Road Grey Lynn, Auckland",130,720000,-36.8563101,174.730722,7004733,21,39,39,21,21,12,Grey Lynn
+5,5,"62 Manuel Road Silverdale, Auckland",659,1750000,-36.6050069,174.6740986,7001456,66,21,21,33,18,18,Silverdale
+5,4,"4 Tawatawa Street Long Bay, Auckland",557,1675000,-36.6810931,174.7388792,7001929,27,12,21,21,12,21,Long Bay
+5,4,"35 Bounty Road Long Bay, Auckland",608,2075000,-36.6859476,174.7427924,7001929,27,12,21,21,12,21,Long Bay
+4,1,"10 Fisher Street Surfdale, Auckland",862,1000000,-36.7900147,175.0272839,7003355,30,24,15,24,21,24,Surfdale
+3,1,"19 Beresford Avenue Surfdale, Auckland",1055,830000,-36.7893761,175.0281423,7003355,30,24,15,24,21,24,Surfdale
+3,2,"29d Kamara Road Glen Eden, Auckland",402,710000,-36.9114342,174.6378628,7007169,57,18,36,33,15,18,Glen Eden
+3,1,"16 School Road Kingsland, Auckland",701,1425000,-36.8718357,174.7366601,7004963,48,54,51,27,12,12,Morningside
+3,2,"Remuera  Auckland City  1072 Remuera, Auckland",256,3275000,-36.8807382,174.7981463,7005843,12,12,6,9,15,33,Remuera
+3,1,"11d Monteith Crescent Remuera, Auckland",285,880000,-36.8815435,174.8228154,7006221,36,27,27,24,9,33,Remuera
+5,4,"5 Takurua Terrace Orewa, Auckland",452,1175000,-36.5805969,174.6722249,7001429,36,6,12,27,18,33,Orewa
+2,1,"1/42b Candia Road Swanson, Auckland",605,640000,-36.871876,174.5890894,7003489,66,21,33,27,6,9,Swanson
+3,1,"33 Wairau Avenue Avondale, Auckland",1343,1335000,-36.8930616,174.6863771,7004336,66,42,33,27,21,21,Avondale
+5,3,"585 Great South Road Drury, Auckland",766,965000,-37.0932056,174.9445781,7010149,87,45,57,45,30,45,Rosehill
+4,1,"50 Oraha Road Kumeu, Auckland",1437,920000,-36.7698871,174.5509508,7002193,30,12,12,18,15,15,Huapai
+4,2,"12 Robert Might Road Huapai, Auckland",702,1150000,-36.7627163,174.5340476,7002170,84,30,54,36,42,42,Kumeu
+4,2,"40j Konini Road Titirangi, Auckland",451,1260000,-36.9270196,174.6492794,7007264,75,18,18,51,33,24,Titirangi
+2,2,"223 Green Lane West Epsom, Auckland",123,18000000,-36.8927725,174.7797911,7005755,3,9,15,6,15,21,Epsom
+5,4,"12b Walpole Street Ellerslie, Auckland",505,1600000,-36.8931018,174.8022017,7006015,33,18,24,30,30,21,Ellerslie
+4,2,"87 Naylors Drive Mangere, Auckland",221,720000,-36.982632,174.796744,7008064,123,51,48,27,24,21,Mangere
+4,,"14 Hea Road Hobsonville, Auckland",214,1250000,-36.7983712,174.64743,7002267,60,66,60,24,24,18,Hobsonville
+4,2,"12 Hea Road Hobsonville, Auckland",191,530000,-36.7983712,174.64743,7002267,60,66,60,24,24,18,Hobsonville
+4,,"16 Hea Road Hobsonville, Auckland",245,1100000,-36.7983712,174.64743,7002267,60,66,60,24,24,18,Hobsonville
+2,1,"1/67 Buckland Road Mangere, Auckland",80,580000,-36.9718136,174.8320786,7008292,54,30,39,15,27,39,Mangere East
+3,2,"89 Kauri Point Road Laingholm, Auckland",1528,770000,-36.9772792,174.6316772,7007165,27,3,18,30,15,12,Laingholm
+1,1,"3x/15 Nelson Street Auckland Central, Auckland",54,560000,-36.8466718,174.7599681,7005288,6,63,60,18,18,18,Auckland Central
+4,1,"768 South Titirangi Road Titirangi, Auckland",2342,1360000,-36.9586578,174.6493112,7007292,36,15,9,21,21,33,Titirangi
+3,1,"1103 Scenic Drive North Swanson, Auckland",1884,720000,-36.8745465,174.550974,7003426,33,24,15,24,39,36,Swanson
+4,2,"37 Bleakhouse Road Mellons Bay, Auckland",847,2000000,-36.8910258,174.9220065,7006898,45,27,24,24,42,45,Howick
+5,3,"35 Bleakhouse Road Mellons Bay, Auckland",1629,2300000,-36.890492,174.9226706,7006898,45,27,24,24,42,45,Howick
+3,1,"20 Oriana Avenue Lynfield, Auckland",293,700000,-36.9294147,174.7245278,7007635,66,45,39,30,24,27,Lynfield
+6,4,"44 Hughs Way Flat Bush, Auckland",409,1375000,-36.9761204,174.9157279,7009087,117,81,90,60,27,39,Flat Bush
+4,2,"27 Mcculloch Road Panmure, Auckland",650,870000,-36.8948354,174.8591483,7006591,21,9,15,3,24,12,Panmure
+4,2,"31 Pine Harbour Parade Beachlands, Auckland",815,1425000,-36.8852007,174.9893001,7007031,57,12,6,45,30,33,Beachlands
+4,3,"1/117 Shelly Beach Road St Marys Bay, Auckland",275,1825000,-36.8400283,174.7420513,7004858,12,24,36,15,27,45,Saint Marys Bay
+3,1,"111 Shelly Beach Road, Auckland",1300 m²,3600000,-36.8402456,174.7421394,7004858,12,24,36,15,27,45,Saint Marys Bay
+3,2,"556 Great North Road Grey Lynn, Auckland",179,1575000,-36.8659995,174.7375053,7004944,30,33,33,18,15,15,Grey Lynn
+3,1,"23/340 Gulf Harbour Drive Gulf Harbour, Auckland",89,410000,-36.6143145,174.8032398,7001718,36,21,30,24,21,36,Gulf Harbour
+4,2,"19 Muirlea Drive Flat Bush, Auckland",644,1100000,-36.9593057,174.9341799,7009287,108,39,72,69,30,33,Flat Bush
+5,3,"9 Melness Place Flat Bush, Auckland",539,1225000,-36.9595355,174.9341057,7009287,108,39,72,69,30,33,Flat Bush
+3,1,"161a Don Buck Road Massey, Auckland",451,640000,-36.8495702,174.6102219,7003661,57,21,36,21,15,18,Massey
+3,2,"70 Fairclough Road Beach Haven, Auckland",1006,870000,-36.7925349,174.6953357,7002430,48,21,24,30,18,21,Beach Haven
+3,2,"40a Glenfern Road Mellons Bay, Auckland",809,1325000,-36.8906925,174.9348078,7006944,27,9,12,12,12,45,Mellons Bay
+3,1,"2/26 Caravelle Close Mangere, Auckland",80,500000,-36.9624846,174.793161,7008027,93,39,18,24,24,24,Mangere
+3,1,"86 Williamson Avenue Grey Lynn, Auckland",556,1950000,-36.8621594,174.7428092,7004935,33,39,39,21,27,9,Grey Lynn
+5,2,"31 Elgin Street Grey Lynn, Auckland",471,2075000,-36.8632281,174.7416011,7004935,33,39,39,21,27,9,Grey Lynn
+4,3,"24/21 Birdwood Crescent Parnell, Auckland",195,1450000,-36.8589527,174.7800434,7005693,30,51,48,21,15,15,Parnell
+4,2,"2284d Hunua Road Papakura, Auckland",1603,740000,-37.0793779,175.0703464,7010283,57,30,24,27,21,39,Hunua
+4,2,"38 Hadley Wood Drive Wattle Downs, Auckland",574,1000000,-37.052032,174.8772789,7009609,117,36,69,57,51,42,Wattle Downs
+3,1,"1/12 Marewa Street Te Atatu South, Auckland",89,420000,-36.8549925,174.643131,7003952,45,30,21,21,18,21,Te Atatu South
+4,1,"4 Paton Avenue Te Atatu South, Auckland",814,840000,-36.855803,174.642841,7003952,45,30,21,21,18,21,Te Atatu South
+3,1,"1/9 Marewa Street Te Atatu South, Auckland",90,600000,-36.8547334,174.643806,7003952,45,30,21,21,18,21,Te Atatu South
+3,1,"3/56 Watts Road Manurewa, Auckland",80,450000,-37.0165899,174.8721467,7009446,75,54,24,27,15,30,Manurewa
+5,3,"6 Maraeariki Avenue Orewa, Auckland",581,1100000,-36.5815524,174.6899519,7001488,24,12,9,12,15,36,Orewa
+2,1,"6/723 Remuera Road Remuera, Auckland",79,820000,-36.8791334,174.8226494,7006220,33,24,27,30,6,18,Remuera
+3,1,"29 Dewhurst Place Favona, Auckland",360,660000,-36.952785,174.803846,7008085,57,24,27,18,21,27,Favona
+5,2,"2 San Luis Place Golflands, Auckland",650,1325000,-36.9230544,174.9049592,7009011,39,27,30,21,27,27,Golflands
+4,2,"5 Juliet Avenue Howick, Auckland",675,1150000,-36.8975677,174.9186666,7006910,48,33,30,21,24,21,Howick
+4,3,"1/17 Lydia Avenue Northcote, Auckland",150,990000,-36.8029137,174.7339765,7002962,27,15,36,18,15,30,Northcote
+5,3,"12 Camp X Place Whenuapai, Auckland",315,1100000,-36.7905871,174.6171225,7002238,66,162,63,24,12,21,Whenuapai
+2,2,"4b/15 Fleet Street Eden Terrace, Auckland",103,750000,-36.8637961,174.7559946,7005364,15,57,72,18,6,6,Eden Terrace
+4,3,"2/32 Gills Road Bucklands Beach, Auckland",450,1280000,-36.8898387,174.9178477,7006891,39,12,18,21,33,30,Bucklands Beach
+3,2,"2/29 Carlisle Road Torbay, Auckland",140,900000,-36.7099423,174.740653,7002059,36,33,33,30,30,51,Torbay
+4,2,"15 Markham Place Bucklands Beach, Auckland",974,1380000,-36.859434,174.9019444,7006767,33,12,9,21,30,30,Bucklands Beach
+3,2,"Lot 2/166 Ennis Avenue Pakuranga, Auckland",178,1195000,-36.9193537,174.8890656,7008816,75,39,51,30,27,33,Pakuranga Heights
+3,2,"86 Holly Street Avondale, Auckland",1077,1025000,-36.8871285,174.6916029,7004332,33,30,24,27,12,18,Avondale
+4,1,"94A Holly Street, Auckland",550 m²,850000,-36.8874761,174.6913819,7004332,33,30,24,27,12,18,Avondale
+4,3,"200 Ridge Road Howick, Auckland",417,1260000,-36.9002271,174.9206737,7006919,30,15,12,15,18,57,Howick
+3,1,"2/14 Ruth Street Manurewa, Auckland",80,500000,-37.0172609,174.8888927,7009658,78,90,48,24,24,30,Manurewa
+5,4,"364 Pinecrest Drive Gulf Harbour, Auckland",1047,3000000,-36.6246261,174.8034086,7001722,27,18,27,12,9,33,Gulf Harbour
+4,2,"79a Atkin Avenue Mission Bay, Auckland",576,1900000,-36.8551181,174.8282444,7006174,39,15,27,33,18,42,Mission Bay
+3,1,"95 Keegan Drive Massey, Auckland",335,540000,-36.8444566,174.6231946,7003825,57,24,24,30,15,12,Massey
+3,1,"5/108 Station Road Papatoetoe, Auckland",80,480000,-36.973832,174.8415098,7008409,63,39,39,21,15,12,Papatoetoe
+3,1,"3/85a Tidal Road Mangere, Auckland",70,490000,-36.9799062,174.8256274,7008227,60,30,27,21,12,27,Mangere
+4,1,"40 Harlston Road Mount Albert, Auckland",129,1775000,-36.8950614,174.7102565,7004514,33,21,15,27,15,21,Mount Albert
+3,1,"1/31 Thomas Road Mangere, Auckland",80,500000,-36.9733379,174.7957699,7008037,96,27,39,33,27,24,Mangere
+3,1,"21 Fairmount Road Titirangi, Auckland",495,690000,-36.9198839,174.6613211,7007316,24,6,24,15,6,15,Titirangi
+4,2,"142 Hill Road The Gardens, Auckland",848,890000,-37.0119556,174.9131413,7009845,45,39,24,21,36,27,Manurewa
+2,1,"5/103 Hinemoa Street Birkenhead, Auckland",90,630000,-36.8170459,174.7326281,7004846,24,18,15,15,30,30,Birkenhead
+3,1,"25/955 Mount Eden Road Three Kings, Auckland",86,490000,-36.9018811,174.7589353,7005469,9,21,15,18,3,42,Three Kings
+4,4,"48 Kings Road Three Kings, Auckland",697,1425000,-36.8988174,174.7495922,7005232,24,33,27,15,12,9,Mount Roskill
+5,5,"50 Braemar Road Rothesay Bay, Auckland",415,2300000,-36.7250247,174.7481043,7002080,48,39,24,30,33,27,Rothesay Bay
+3,1,"1/112 New Windsor Road New Windsor, Auckland",73,650000,-36.9028184,174.709662,7004527,45,30,30,21,21,24,New Windsor
+3,1,"2/28 Gloucester Road Manurewa, Auckland",90,495000,-37.0155102,174.8775816,7009543,66,45,27,12,27,30,Manurewa
+5,4,"17 Greenbank Drive St Johns, Auckland",740,2625000,-36.8754184,174.8349235,7006333,45,24,6,33,27,39,Saint Johns
+5,2,"25 Seymour Avenue Papatoetoe, Auckland",809,1100000,-36.9652988,174.8579734,7008515,78,63,60,27,30,48,Papatoetoe
+5,3,"20 Clive Road Epsom, Auckland",1310,3900000,-36.8735266,174.7670636,7005561,90,33,12,15,27,45,Epsom
+4,3,"1b Roby Street Te Atatu Peninsula, Auckland",303,1160000,-36.8382827,174.6545097,7004216,39,12,24,24,12,24,Te Atatu Peninsula
+3,1,"31 Hereford Street Te Atatu Peninsula, Auckland",675,980000,-36.8384958,174.6546437,7004216,39,12,24,24,12,24,Te Atatu Peninsula
+4,2,"6 Mansion Court West Harbour, Auckland",502,1150000,-36.8140262,174.6412919,7002280,60,36,18,36,42,36,West Harbour
+3,1,"3a Mclennan Road Mount Wellington, Auckland",80,580000,-36.9273044,174.8495935,7008448,57,45,33,21,18,21,Mount Wellington
+3,1,"6a Dennis Road Papatoetoe, Auckland",353,1450000,-36.9773939,174.8751068,7008765,33,39,21,12,21,3,Papatoetoe
+5,3,"10 Paripari Street Flat Bush, Auckland",325,660000,-36.9801712,174.9361137,7009314,21,18,9,15,6,6,Flat Bush
+7,5,"17 Golden Avenue Flat Bush, Auckland",398,700000,-36.9766548,174.9241208,7009314,21,18,9,15,6,6,Flat Bush
+7,5,"7 Ballinabreen Road Flat Bush, Auckland",428,1475000,-36.9806461,174.9295512,7009314,21,18,9,15,6,6,Flat Bush
+5,4,"27 Paripari Street Flat Bush, Auckland",325,660000,-36.9794367,174.9359015,7009314,21,18,9,15,6,6,Flat Bush
+5,4,"28 Matahae Drive Flat Bush, Auckland",325,660000,-36.9798673,174.935215,7009314,21,18,9,15,6,6,Flat Bush
+4,2,"1/12 Shera Road Remuera, Auckland",180,1625000,-36.873373,174.7933756,7005832,57,27,15,18,30,27,Remuera
+5,3,"46 St Marys Road St Marys Bay, Auckland",632,4650000,-36.8457582,174.745697,7005079,30,15,24,36,39,51,Saint Marys Bay
+3,1,"3 Midgley Road West Harbour, Auckland",383,750000,-36.8200841,174.6256524,7003775,69,21,42,18,9,6,West Harbour
+3,2,"67 Middleton Road Remuera, Auckland",391,2125000,-36.868233,174.7830276,7005719,24,24,18,18,24,12,Remuera
+3,2,"309 Victoria Street West Pukekohe, Auckland",314,280000,-37.2066601,174.8845192,7010468,87,60,81,45,39,42,Pukekohe
+4,2,"7 Tamatea Drive Snells Beach, Auckland",556,740000,-36.4140858,174.7242024,7001328,57,15,27,33,30,105,Snells Beach
+3,2,"17 Matangi Terrace Snells Beach, Auckland",810,810000,-36.4148331,174.7238749,7001328,57,15,27,33,30,105,Snells Beach
+6,3,"89 Pacific Parade Army Bay, Auckland",852,1325000,-36.6026993,174.802068,7001700,45,15,24,33,39,54,Army Bay
+3,1,"28 Te Arawa Street Orakei, Auckland",141,1300000,-36.8531726,174.8246433,7006154,27,24,24,15,18,24,Orakei
+4,1,"26 Donzella Place Conifer Grove, Auckland",808,840000,-37.0491525,174.9108138,7009903,33,15,12,15,21,33,Conifer Grove
+5,3,"26a Vanessa Crescent Glendowie, Auckland",1148,4000000,-36.8685549,174.8798402,7006673,45,15,9,27,21,45,Glendowie
+3,2,"42a Elizabeth Street Tuakau, Auckland",985,1425000,-37.2612474,174.9389388,7010984,30,12,15,18,15,27,Tuakau
+4,2,"4 Rees Way Tuakau, Auckland",433,670000,-37.262183,174.9402622,7010984,30,12,15,18,15,27,Tuakau
+4,3,"21 Michaels Avenue Ellerslie, Auckland",628,1650000,-36.8958961,174.8203653,7006127,39,27,27,30,15,12,Ellerslie
+4,2,"37 Cheriton Road Mellons Bay, Auckland",809,1425000,-36.8871669,174.9281837,7006939,39,15,15,18,33,45,Mellons Bay
+3,1,"9 Dublin Street Pukekohe, Auckland",392,530000,-37.1970898,174.9005173,7010357,45,27,33,15,24,39,Pukekohe
+5,4,"73b Shore Road Remuera, Auckland",1272,4300000,-36.8648621,174.7985754,7005821,39,18,12,18,30,30,Remuera
+4,3,"6 Keiha Crescent Massey, Auckland",408,920000,-36.8281956,174.6150304,7003619,84,51,69,60,36,39,Massey
+2,2,"806/39-47 Union Street Auckland Central, Auckland",80,700000,-36.8516708,174.7560052,7005291,57,270,138,30,15,18,Auckland Central
+2,2,"908/39-47 Union Street Auckland Central, Auckland",80,430000,-36.8516708,174.7560052,7005291,57,270,138,30,15,18,Auckland Central
+4,1,"51 Ashgrove Road Mangere, Auckland",969,670000,-36.970082,174.8052558,7008126,42,27,12,12,12,9,Mangere
+4,2,"4 Korama Lane New Lynn, Auckland",101,900000,-36.9043318,174.6838442,7004358,33,60,45,24,27,36,New Lynn
+4,2,"14 Korama Lane New Lynn, Auckland",122,920000,-36.9043318,174.6838442,7004358,33,60,45,24,27,36,New Lynn
+4,2,"8 Korama Lane New Lynn, Auckland",176,940000,-36.9043318,174.6838442,7004358,33,60,45,24,27,36,New Lynn
+4,2,"10 Korama Lane New Lynn, Auckland",101,900000,-36.9043318,174.6838442,7004358,33,60,45,24,27,36,New Lynn
+4,2,"9c Tomes Lane Favona, Auckland",405,500000,-36.9530178,174.813736,7008092,72,27,15,24,18,6,Favona
+3,2,"6/71 Kolmar Road Papatoetoe, Auckland",108,1000000,-36.974782,174.8565882,7008640,63,72,42,30,21,48,Papatoetoe
+7,2,"43-45 Walters Road Takanini, Auckland",2410,600000,-37.0490801,174.9347277,7010037,54,42,33,21,15,24,Takanini
+3,2,"118 Reihana Street Orakei, Auckland",89,2075000,-36.8604806,174.8216994,7006043,36,24,27,18,27,39,Orakei
+3,2,"118 Reihana Street Orakei, Auckland",89,2075000,-36.8604806,174.8216994,7006043,36,24,27,18,27,39,Orakei
+4,2,"54 Beach Road Mellons Bay, Auckland",943,1790000,-36.8899244,174.9359161,7006986,54,18,15,33,24,39,Mellons Bay
+3,1,"3/22 Mainston Road Remuera, Auckland",685,1260000,-36.8829671,174.8121224,7006096,48,24,24,39,27,27,Remuera
+4,2,"16a Mainston Road Remuera, Auckland",214,1360000,-36.8832505,174.811194,7006096,48,24,24,39,27,27,Remuera
+3,1,"12 Kaiwaka Road Waiuku, Auckland",1445,640000,-37.257248,174.7348917,7010436,54,15,21,24,24,36,Waiuku
+6,3,"39 Hilltop Road Flat Bush, Auckland",622,1150000,-36.9865073,174.9049914,7008990,60,45,42,33,24,18,Flat Bush
+5,4,"15 Lammermoore Drive St Heliers, Auckland",1998,7000000,-36.863985,174.8519671,7006417,51,27,9,21,42,51,St Heliers
+5,4,"35 Lammermoor Drive St Heliers, Auckland",818,3600000,-36.862909,174.8510837,7006417,51,27,9,21,42,51,St Heliers
+4,3,"Lot 2/10 Whitmore Road Mount Roskill, Auckland",399,1175000,-36.9257759,174.7458394,7007739,66,57,63,24,33,54,Mount Roskill
+8,4,"30 Florence Daly Place, Auckland",990 m²,1250000,-36.9264921,174.7481298,7007739,66,57,63,24,33,54,Mount Roskill
+5,3,"671 Richardson Road, Auckland",842 m²,1125000,-36.9254157,174.7467049,7007739,66,57,63,24,33,54,Mount Roskill
+3,1,"55 Rathgar Road Henderson, Auckland",875,835000,-36.8674833,174.6213107,7003862,54,30,27,27,15,21,Henderson
+3,1,"61a Wairiki Road Mount Eden, Auckland",406,1450000,-36.8895914,174.7520841,7005203,36,27,21,27,12,24,Mount Eden
+3,2,"3/69 St Stephens Avenue Parnell, Auckland",187,2750000,-36.8555113,174.7883809,7005662,42,24,27,27,21,57,Parnell
+3,2,"16a O'halloran Road Howick, Auckland",402,1050000,-36.8938517,174.9226202,7006905,21,18,3,15,15,24,Howick
+2,1,"1/10 Grantham Road Papatoetoe, Auckland",71,560000,-36.9795206,174.8792121,7008768,33,21,21,18,12,21,Papatoetoe
+4,1,"62 Kivell Close Mangere, Auckland",690,650000,-36.9647889,174.8096399,7008118,69,15,27,30,15,12,Mangere East
+3,1,"4 Atkinson Avenue Papatoetoe, Auckland",825,765000,-36.9922906,174.858979,7009405,30,30,12,12,3,6,Papatoetoe
+4,1,"16 Ririno Place Manurewa, Auckland",818,550000,-37.028742,174.8752312,7009580,84,39,33,27,21,24,Manurewa
+3,1,"5a Clarice Place Takanini, Auckland",90,490000,-37.0379661,174.9289185,7010014,75,36,24,30,24,24,Takanini
+3,1,"34 Beaubank Road Kelston, Auckland",842,830000,-36.8972398,174.6707393,7004279,54,24,24,27,33,24,Kelston
+4,2,"1102 Whangaparaoa Road Tindalls Beach, Auckland",761,1575000,-36.618976,174.7738847,7001676,30,6,15,12,18,30,Tindalls Beach
+2,1,"1102a Whangaparaoa Road Tindalls Beach, Auckland",755,960000,-36.618976,174.7738847,7001676,30,6,15,12,18,30,Tindalls Beach
+3,1,"680 Great North Road Grey Lynn, Auckland",602,1550000,-36.864797,174.7334589,7004943,21,54,33,21,15,24,Grey Lynn
+3,1,"36 Japonica Drive Beach Haven, Auckland",658,695000,-36.7950265,174.6939984,7002434,48,15,12,18,15,9,Beach Haven
+5,2,"8 Meyrick Place Meadowbank, Auckland",880,1875000,-36.8703363,174.8294094,7006191,21,9,12,15,18,27,Meadowbank
+4,3,"7-9 Glen Atkinson Street St Heliers, Auckland",1750,6500000,-36.8661752,174.8497796,7006420,42,21,12,21,39,39,St Heliers
+4,3,"43 Glen Atkinson Street, Auckland",1531 m²,3550000,-36.8671212,174.8476095,7006420,42,21,12,21,39,39,St Heliers
+3,1,"13 Wordsworth Road Manurewa, Auckland",675,540000,-37.0267161,174.8845362,7009670,72,36,24,18,15,18,Manurewa
+2,1,"10 Bay Road Palm Beach, Auckland",921,920000,-36.7849858,175.0462789,7003374,30,15,9,24,15,30,Ostend
+4,4,"251 Harbourside Drive Karaka, Auckland",567,1750000,-37.062185,174.9214206,7009990,33,12,15,21,18,30,Karaka
+4,2,"117 Celtic Crescent Ellerslie, Auckland",607,1300000,-36.8883434,174.8198618,7006114,42,12,36,24,12,33,Ellerslie
+4,1,"22 Pigeon Mountain Road Half Moon Bay, Auckland",1014,2550000,-36.8851289,174.9011172,7006814,54,9,18,30,36,51,Half Moon Bay
+4,3,"69 Prince Regent Drive Half Moon Bay, Auckland",734,1350000,-36.8891292,174.8953588,7006723,51,21,18,30,21,21,Half Moon Bay
+5,4,"10 Mantis Lane Hobsonville, Auckland",336,545000,-36.8013291,174.666149,7002304,33,30,24,15,12,18,Hobsonville
+5,3,"2a Landette Road Manurewa, Auckland",244,2325000,-37.0310912,174.8725122,7009582,90,33,24,21,21,3,Manurewa
+4,2,"532 Chapel Road East Tamaki, Auckland",594,1100000,-36.939972,174.9131935,7009039,33,18,15,27,12,21,East Tamaki
+4,2,"90 Aroha Avenue Sandringham, Auckland",784,1825000,-36.8785526,174.736405,7004975,27,66,72,30,12,18,Sandringham
+5,3,"27 Margaret Road Papatoetoe, Auckland",202,1450000,-36.988449,174.8447708,7009388,63,39,36,9,15,6,Papatoetoe
+4,2,"18a Manawa Road Remuera, Auckland",469,1725000,-36.8678378,174.8023597,7005966,45,30,15,24,21,27,Remuera
+3,1,"18 Serrita Avenue Sunnyhills, Auckland",690,1150000,-36.89801,174.8906954,7006699,45,12,15,33,12,15,Sunnyhills
+3,2,"A1/27-29 Towai Street St Heliers, Auckland",238,2450000,-36.8570908,174.8502488,7006413,36,18,9,21,27,66,St Heliers
+3,2,"47 Milano Boulevard Karaka, Auckland",1191,2100000,-37.0651329,174.9140949,7009923,30,18,18,21,27,30,Karaka
+4,3,"69 Milano Boulevard Karaka, Auckland",572,1550000,-37.0661056,174.9123718,7009923,30,18,18,21,27,30,Karaka
+2,1,"2322 State Highway 16 Helensville, Auckland",5210,730000,-36.6792597,174.4379383,7001365,39,24,18,24,27,30,Helensville
+4,2,"12 Williams Road Hobsonville, Auckland",450,1125000,-36.8005504,174.6451824,7002271,12,12,9,6,9,75,Hobsonville
+4,2,"1/90 Maich Road Manurewa, Auckland",130,650000,-37.0144149,174.8894841,7009644,78,42,39,24,24,21,Manurewa
+3,1,"1/662 East Coast Road Pinehill, Auckland",81,830000,-36.7285787,174.7302464,7002686,36,36,33,27,27,30,Pinehill
+2,1,"1a Rewiti Street Orakei, Auckland",84,1060000,-36.8551765,174.8129967,7005958,15,27,12,6,30,27,Orakei
+4,2,"1 Kingsgate Place Dannemora, Auckland",417,1325000,-36.9229517,174.9228485,7009157,15,9,15,3,15,483,Dannemora
+3,1,"7 Portrush Lane Takanini, Auckland",361,600000,-37.0383231,174.916708,7009911,51,36,24,18,6,18,Takanini
+4,2,"318 Sea View Road Onetangi, Auckland",5175,2300000,-36.7827438,175.0620241,7003376,39,21,15,30,24,60,Ostend
+5,2,"13b Maioro Street New Windsor, Auckland",174,1090000,-36.9074439,174.7156062,7004673,36,36,27,12,15,27,New Windsor
+6,4,"460 Union Road Pukekohe, Auckland",465,2075000,-37.2012727,174.8158397,7010456,42,15,18,27,21,33,Mauku
+3,1,"2/6 Woodside Road Manurewa, Auckland",110,530000,-37.0254779,174.899302,7009794,54,33,27,27,12,12,Manurewa
+5,3,"1 Kumar Place The Gardens, Auckland",589,1130000,-37.0083849,174.9171628,7009942,48,36,27,21,27,24,The Gardens
+4,2,"200b Old Titirangi Road Titirangi, Auckland",451,835000,-36.9209739,174.6637504,7007315,42,21,21,24,21,21,Titirangi
+6,3,"21 Mull Place Wattle Downs, Auckland",1265,1690000,-37.0491615,174.8942459,7009717,42,21,18,15,12,42,Wattle Downs
+3,1,"12 Talavera Place Te Atatu South, Auckland",100,612000,-36.8807816,174.6550089,7004150,48,24,39,21,24,33,Te Atatu South
+5,3,"25 Cunliffe Place Glenfield, Auckland",1405,1100000,-36.7768757,174.717903,7002619,54,54,42,21,27,30,Glenfield
+2,1,"1/68 Ireland Road Panmure, Auckland",70,510000,-36.907873,174.8431008,7008326,36,42,36,30,12,15,Mount Wellington
+5,3,"92a East Tamaki Road Papatoetoe, Auckland",536,980000,-36.9657304,174.864446,7008619,45,24,30,15,18,6,Papatoetoe
+5,2,"28 Entrican Avenue Remuera, Auckland",819,3075000,-36.8794045,174.8069828,7005989,30,9,6,24,24,18,Remuera
+4,2,"8 Springtide Place Red Beach, Auckland",612,1000000,-36.6088334,174.6836301,7001514,48,3,12,33,15,24,Red Beach
+5,4,"16 Kilcooley Road Flat Bush, Auckland",354,1275000,-36.9670344,174.9359253,7009309,108,63,93,63,30,51,Flat Bush
+2,1,"3/15 Nihill Crescent Mission Bay, Auckland",85,740000,-36.8520455,174.8302353,7006171,18,18,9,15,18,36,Mission Bay
+4,4,"10 Codrington Crescent Mission Bay, Auckland",827,5300000,-36.8530087,174.8295425,7006171,18,18,9,15,18,36,Mission Bay
+5,3,"19 Takitimu Street Orakei, Auckland",479,2550000,-36.8538322,174.8225897,7006159,54,18,15,15,21,27,Orakei
+4,3,"42 Marua Road Ellerslie, Auckland",277,1725000,-36.8898532,174.8164588,7006118,48,33,48,30,18,27,Ellerslie
+4,3,"3c The Rise St Heliers, Auckland",543,3500000,-36.8462688,174.8650988,7006474,66,18,30,33,39,45,St Heliers
+3,2,"4 Springcombe Road, Auckland",449 m²,3100000,-36.8463819,174.8625265,7006474,66,18,30,33,39,45,St Heliers
+1,1,"2/37 Mahia Road Manurewa, Auckland",70,445000,-37.0391848,174.8809426,7009597,120,42,42,27,27,33,Weymouth
+2,2,"1164 Huia Road Huia, Auckland",809,750000,-37.0030833,174.573895,7007109,84,21,45,54,51,60,Huia
+3,2,"22a Puriri Avenue Greenlane, Auckland",130,1575000,-36.89294,174.7940427,7005883,57,30,30,30,33,21,Greenlane
+4,2,"537 Hillsborough Road Mount Roskill, Auckland",1055,1500000,-36.9278156,174.7295621,7007629,51,33,27,27,21,39,Mount Roskill
+4,2,"112 Albany Heights Albany, Auckland",11759,1700000,-36.7114221,174.6833272,7001807,18,9,9,9,21,15,Albany Heights
+2,2,"30 Bel Air Drive Hillsborough, Auckland",1051,1275000,-36.9191465,174.7643573,7007771,24,33,24,15,21,15,Hillsborough
+4,1,"7 Tiari Place Mangere, Auckland",566,660000,-36.9726318,174.8268317,7008296,78,39,33,27,30,21,Mangere East
+3,1,"362 Blockhouse Bay Road Blockhouse Bay, Auckland",919,640000,-36.9117146,174.7022303,7007517,48,42,33,27,36,39,Blockhouse Bay
+4,3,"26d Roseville Street New Windsor, Auckland",150,999000,-36.9040618,174.7173818,7004665,27,27,21,18,24,12,New Windsor
+4,2,"26c Roseville Street New Windsor, Auckland",150,999000,-36.9040618,174.7173818,7004665,27,27,21,18,24,12,New Windsor
+3,1,"236 Kaiaraara Bay Road Great Barrier Island, Auckland",5638,580000,-36.1776547,175.3590697,7001130,39,9,18,24,24,42,Great Barrier Island (Aotea Island)
+3,2,"91c East Tamaki Road Papatoetoe, Auckland",373,820000,-36.9671685,174.8649469,7008620,45,30,27,21,18,15,Papatoetoe
+4,4,"201a St Andrews Road Epsom, Auckland",603,3700000,-36.9020124,174.7612856,7005467,36,15,6,21,18,30,Epsom
+5,2,"22 Landscape Road, Auckland",1203 m²,660000,-36.9005066,174.7601404,7005467,36,15,6,21,18,30,Mount Eden
+3,3,"209D St Andrews Road, Auckland",541 m²,1600000,-36.9017294,174.7606182,7005467,36,15,6,21,18,30,Epsom
+4,2,"4 Ross Place Opaheke, Auckland",718,850000,-37.0756141,174.9473467,7010134,54,18,24,33,30,51,Opaheke
+6,4,"21 Armadale Road Remuera, Auckland",1284,4400000,-36.8831455,174.7933358,7005859,30,30,3,15,15,18,Remuera
+2,2,"8 Tawa Street Oneroa, Auckland",1232,1850000,-36.7860353,175.0185042,7003344,21,9,12,21,18,48,Oneroa
+4,3,"24 Aldred Road Remuera, Auckland",928,3550000,-36.8737798,174.7963636,7005837,66,12,3,33,45,36,Remuera
+3,1,"1/57 Kelvin Road Papakura, Auckland",90,540000,-37.0637794,174.9590698,7010192,81,48,45,27,30,27,Papakura
+4,2,"21 Silkwood Grove Totara Heights, Auckland",872,900000,-36.9978874,174.9029335,7009748,45,36,24,24,39,42,Totara Heights
+4,2,"19 Roadley Avenue Sunnyhills, Auckland",782,1550000,-36.9001872,174.8813948,7006690,42,12,12,27,27,27,Sunnyhills
+4,3,"11 Fort Lincoln Loop Karaka, Auckland",309,920000,-37.0817356,174.902696,7009834,21,0,6,21,12,15,Karaka
+5,3,"1 Tuangi Street Long Bay, Auckland",480,1500000,-36.6902805,174.7422363,7002020,57,24,36,30,30,24,Long Bay
+5,3,"9 Tuangi Street Long Bay, Auckland",465,1450000,-36.6903871,174.7420748,7002020,57,24,36,30,30,24,Long Bay
+5,4,"9 Ngaio Street Orakei, Auckland",488,610000,-36.8591469,174.8140562,7006054,24,15,18,18,18,33,Orakei
+1,1,"108 Hill Road Palm Beach, Auckland",4737,710000,-36.7852451,175.0419922,7003365,27,9,18,18,24,48,Palm Beach
+3,1,"34 Regent Street Papatoetoe, Auckland",1464,1175000,-36.9798783,174.8691556,7008659,51,39,30,21,21,30,Papatoetoe
+4,2,"24 Lemonwood Place The Gardens, Auckland",1019,1000000,-37.0098989,174.9140007,7009843,45,27,21,21,42,42,The Gardens
+4,2,"25 Kuripaka Crescent The Gardens, Auckland",771,1030000,-37.0094625,174.9125187,7009843,45,27,21,21,42,42,The Gardens
+3,2,"7 Phoenix Place Papatoetoe, Auckland",874,840000,-36.9746697,174.8392213,7008422,39,30,30,9,9,9,Papatoetoe
+4,2,"15 Gulf Harbour Drive Gulf Harbour, Auckland",1061,1025000,-36.6100686,174.7851749,7001688,45,12,15,27,30,51,Gulf Harbour
+3,2,"4 Portobello Place Torbay, Auckland",985,1125000,-36.6990528,174.7298974,7001939,51,36,24,42,30,18,Torbay
+5,3,"93 Popes Road Takanini, Auckland",20226,2975000,-37.0289728,174.9313296,7010010,51,24,21,18,27,30,Takanini
+3,1,"42 Clifton Road Herne Bay, Auckland",1292,5200000,-36.8455501,174.7296588,7004702,45,9,12,33,30,24,Herne Bay
+4,2,"35 Sunnyside Road Sunnyvale, Auckland",2861,1250000,-36.8978289,174.6356813,7004025,42,33,27,21,15,15,Sunnyvale
+2,1,"10/10 Gerard Way St Johns, Auckland",104,800000,-36.8748599,174.8301089,7006208,12,12,9,9,12,90,Saint Johns
+3,2,"64 Wattle Farm Road Wattle Downs, Auckland",619,860000,-37.0439703,174.8906819,7009712,27,6,15,15,9,30,Wattle Downs
+3,1,"4/38 Hall Avenue Otahuhu, Auckland",70,475000,-36.9459073,174.8425462,7008371,57,36,39,27,30,39,Otahuhu
+3,2,"3 Maynard Place Mangere Bridge, Auckland",905,1175000,-36.945839,174.7786407,7007832,42,21,33,27,21,36,Mangere Bridge
+3,2,"192 Orakei Road Remuera, Auckland",238,3375000,-36.8682435,174.8053692,7005964,27,15,3,12,24,30,Remuera
+5,4,"Lot 1/78 Mahia Road Manurewa, Auckland",274,1050000,-37.0381358,174.888505,7009698,102,24,27,21,9,15,Wattle Downs
+3,2,"93 Beaumonts Way Manurewa, Auckland",714,640000,-37.0284281,174.9010774,7009799,36,36,24,18,9,21,Manurewa
+3,2,"93 Beaumonts Way Manurewa, Auckland",714,640000,-37.0284281,174.9010774,7009799,36,36,24,18,9,21,Manurewa
+3,1,"51 Beaumonts Way Manurewa, Auckland",675,580000,-37.0278558,174.9005844,7009799,36,36,24,18,9,21,Manurewa
+3,1,"4 Anson Place St Johns, Auckland",607,1060000,-36.8746381,174.8487666,7006443,51,30,45,30,21,27,Saint Johns
+6,3,"60 Tironui Road Takanini, Auckland",515,810000,-37.053133,174.9336381,7010041,84,45,21,21,21,33,Takanini
+5,3,"68a John Walker Drive Manurewa, Auckland",208,350000,-37.0312948,174.8722419,7009479,69,30,24,15,18,9,Manurewa
+4,2,"54 Godden Crescent Mission Bay, Auckland",382,2450000,-36.8587355,174.8300794,7006179,36,15,12,15,30,27,Mission Bay
+3,1,"2/87a Woodglen Road Glen Eden, Auckland",100,640000,-36.9163925,174.6425663,7007193,60,24,33,30,21,12,Glen Eden
+3,1,"23 Edinburgh Street Tuakau, Auckland",245,690000,-37.2650209,174.9412405,7010987,75,30,21,18,9,9,Tuakau
+3,1,"2/22 Sturdee Road Manurewa, Auckland",80,510000,-37.0140865,174.8849692,7009645,54,33,24,15,21,21,Manurewa
+5,3,"736a Remuera Road Remuera, Auckland",575,2575000,-36.8782757,174.8215358,7006083,39,18,27,21,21,33,Remuera
+5,3,"12b Waiatarua Road Remuera, Auckland",698,2100000,-36.8778505,174.8216048,7006083,39,18,27,21,21,33,Remuera
+4,3,"4 Brownlee Place Pukekohe, Auckland",555,800000,-37.1911305,174.9089261,7010523,63,27,36,21,18,12,Pukekohe
+3,1,"4 St James Avenue Helensville, Auckland",600,680000,-36.6858441,174.4511236,7001747,69,24,30,30,21,60,Helensville
+3,1,"74 Frank Grey Place Otahuhu, Auckland",139,600000,-36.9418883,174.8549182,7008472,57,24,21,15,27,30,Otahuhu
+5,3,"23 Quedley Court Bucklands Beach, Auckland",750,3430000,-36.8768054,174.9147934,7006879,48,30,9,27,39,24,Eastern Beach
+5,2,"31 Selbourne Street Grey Lynn, Auckland",490,2325000,-36.8624487,174.7366573,7004924,57,24,36,33,18,24,Grey Lynn
+4,2,"52 Polo Prince Drive Alfriston, Auckland",6024,1575000,-37.0061204,174.9276808,7009943,24,15,21,9,24,21,Totara Park
+5,3,"3 Chilton Place Mellons Bay, Auckland",825,2475000,-36.8914695,174.9251238,7006948,39,18,15,12,36,39,Howick
+3,1,"30 Koromiko Street New Lynn, Auckland",451,760000,-36.9003586,174.6731599,7004283,39,36,30,24,24,33,New Lynn
+4,2,"17 Mcinnes Road Weymouth, Auckland",845,670000,-37.0493626,174.8609495,7009527,60,21,30,9,18,27,Weymouth
+4,3,"44a Bassett Road Remuera, Auckland",1199,3275000,-36.8720329,174.7847161,7005726,36,18,6,15,24,30,Remuera
+4,2,"6 Kesteven Avenue Glendowie, Auckland",181,2100000,-36.8590278,174.8653767,7006500,42,12,12,24,24,15,Glendowie
+4,3,"1/53 Disraeli Street Epsom, Auckland",162,1600000,-36.8867384,174.7658027,7005433,54,54,21,30,27,39,Epsom
+4,3,"23 Admiralty Rise Gulf Harbour, Auckland",773,400000,-36.6083582,174.7873188,7001687,39,21,15,27,27,39,Gulf Harbour
+5,3,"23 Redvale Rise Albany, Auckland",8573,1725000,-36.6816528,174.6953589,7001813,51,27,12,30,45,30,Redvale
+4,2,"21b Kahia Lane Dairy Flat, Auckland",4000,2275000,-36.6864257,174.6904333,7001813,51,27,12,30,45,30,Redvale
+3,2,"974 Kahikatea Flat Road Waitoki, Auckland",954,1075000,-36.6348536,174.5530938,7001392,42,33,24,27,27,30,Waitoki
+5,3,"67 Sapwood Crescent Takanini, Auckland",345,480000,-37.0426903,174.9515273,7010094,12,9,3,6,3,3,Takanini
+4,3,"3 Black Beech Crescent Takanini, Auckland",385,790000,-37.0413243,174.9495094,7010094,12,9,3,6,3,3,Takanini
+2,1,"38 Hamon Avenue Mount Roskill, Auckland",754,1300000,-36.902073,174.7507925,7005243,57,33,39,24,15,18,Mount Roskill
+2,2,"46d Tohunga Crescent Parnell, Auckland",598,2100000,-36.858635,174.7877974,7005665,27,24,9,12,21,36,Parnell
+4,2,"13 Taihiki Road Clarks Beach, Auckland",792,780000,-37.1366712,174.6983814,7010292,42,9,21,18,21,51,Clarks Beach
+2,2,"20 Kennedy Point Road Surfdale, Auckland",959,1700000,-36.8099488,175.0220949,7003348,21,3,9,18,18,45,Surfdale
+3,1,"70 Kiwi Esplanade Mangere Bridge, Auckland",756,1845000,-36.9412992,174.7691481,7007834,24,6,6,12,18,39,Mangere Bridge
+5,3,"2 Seventh View Avenue Beachlands, Auckland",750,1250000,-36.8888495,174.9983924,7007052,126,51,66,72,42,48,Beachlands
+1,1,"3 Miami Avenue Surfdale, Auckland",809,740000,-36.7931353,175.0260068,7003359,36,27,15,24,33,45,Surfdale
+2,1,"1a Lannan Road Surfdale, Auckland",1421,860000,-36.7891259,175.0228603,7003357,33,18,27,15,30,39,Surfdale
+3,2,"10 Goudie Road Helensville, Auckland",22240,1075000,-36.6888496,174.3881961,7001262,45,12,15,27,27,39,Helensville
+4,2,"27 Scotts Road Manurewa, Auckland",809,680000,-37.0233245,174.9085721,7009888,57,30,18,18,18,15,Manurewa East
+1,1,"14 Te Rangitawhiri Road Great Barrier Island, Auckland",2141,740000,-36.1972824,175.4169211,7001131,27,6,6,18,39,60,
+5,3,"349 Blind Bay Road Great Barrier Island, Auckland",3953,920000,-36.2578952,175.4364476,7001131,27,6,6,18,39,60,Great Barrier Island (Aotea Island)
+3,2,"5b Charlenne Close Ranui, Auckland",291,700000,-36.8690143,174.6066264,7003568,84,51,45,36,30,36,Ranui
+4,1,"37a Earlsworth Road Mangere, Auckland",343,630000,-36.9673457,174.8340787,7008270,75,51,39,24,30,27,Mangere East
+5,6,"259 St Heliers Bay Road St Heliers, Auckland",2268,6600000,-36.8639251,174.8532993,7006423,39,18,15,21,39,30,St Heliers
+4,3,"35b Park Road Glenfield, Auckland",400,450000,-36.7912775,174.7189432,7002649,60,30,33,36,15,27,Glenfield
+3,2,"Lot 3/16 Romney Place Manurewa, Auckland",200,570000,-37.019332,174.8739419,7009554,66,33,33,24,21,21,Manurewa
+3,1,"22 Ivon Road Otara, Auckland",739,540000,-36.9655974,174.8862086,7008860,69,45,30,24,15,30,Otara
+2,1,"3/1 Plunket Avenue Papatoetoe, Auckland",61,480000,-36.9874293,174.8611939,7009439,39,30,30,18,24,15,Papatoetoe
+4,3,"300a Kohimarama Road Kohimarama, Auckland",601,1850000,-36.8643558,174.8439233,7006309,63,24,27,42,39,42,St Heliers
+3,2,"29 Marau Crescent Mission Bay, Auckland",171,2250000,-36.8493717,174.8326149,7006272,18,12,9,9,21,51,Mission Bay
+5,3,"31 Marau Crescent Mission Bay, Auckland",283,2600000,-36.8493109,174.8328969,7006272,18,12,9,9,21,51,Mission Bay
+5,3,"Dairy Flat  Rodney  0794 Dairy Flat, Auckland",323,2100000,-36.6664831,174.6389587,7001769,39,21,18,30,24,30,Dairy Flat
+4,3,"11 Musson Drive Waiheke Island, Auckland",240,1975000,-36.8115438,175.0832685,7003389,30,9,18,27,39,42,Waiheke Island
+4,5,"379a Gordons Road Waiheke Island, Auckland",641,6400000,-36.8290569,175.0742834,7003389,30,9,18,27,39,42,Waiheke Island
+2,1,"22 Ridge Road Oneroa, Auckland",922,960000,-36.7854027,175.0075094,7003340,39,18,33,30,48,63,Oneroa
+3,1,"12 Roseman Avenue Mount Roskill, Auckland",792,1105000,-36.913749,174.7353069,7007657,63,42,30,21,24,24,Mount Roskill
+5,2,"55 Edgewater Parade Waiuku, Auckland",679,690000,-37.2437086,174.7273132,7010407,36,15,21,21,21,36,Waiuku
+2,1,"4/166 Puhinui Road Papatoetoe, Auckland",67,530000,-36.9878469,174.8600802,7009438,36,27,24,15,21,12,Papatoetoe
+4,1,"24 Bates Road Papakura, Auckland",1222,610000,-37.0675883,174.9563647,7010200,81,30,12,18,18,9,Papakura
+6,3,"28 Westerley Place Long Bay, Auckland",708,1625000,-36.6917707,174.7427745,7001930,78,48,54,39,36,45,Long Bay
+4,2,"Lot 2/44 Earlsworth Road Mangere, Auckland",313,1325000,-36.9676691,174.8347424,7008271,87,39,54,33,30,30,Mangere East
+7,3,"70 Waldorf Crescent Orewa, Auckland",1276,2100000,-36.580704,174.6770554,7001431,42,30,9,24,30,42,Orewa
+6,4,"410 Pukapuka Road Mahurangi, Auckland",607,6200000,-36.4745734,174.6934152,7001299,27,15,15,21,27,33,Pohuehue
+2,2,"Parnell  Auckland City  1052 Parnell, Auckland",598,2025000,-36.8590062,174.7829378,7005692,18,21,24,15,15,27,Parnell
+6,4,"64 Okura River Road Okura, Auckland",384,5700000,-36.6763993,174.7214825,7001866,15,6,12,3,15,6,Okura
+3,1,"Lot 2/80 Reelick Avenue Pakuranga, Auckland",570,1950000,-36.9158546,174.8957653,7006765,42,15,27,21,15,27,Pakuranga Heights
+5,3,"15a Wilmay Avenue Papatoetoe, Auckland",252,930000,-36.9758639,174.8577844,7008548,30,60,24,12,12,18,Papatoetoe
+3,3,"9a Luplau Crescent Cockle Bay, Auckland",1024,1300000,-36.8954544,174.9395299,7006998,36,9,12,18,21,36,Cockle Bay
+1,1,"841 Beach Road Browns Bay, Auckland",675,970000,-36.7104447,174.7455523,7002061,27,27,21,15,42,60,Browns Bay
+4,2,"109 Luckens Road West Harbour, Auckland",726,1100000,-36.8204815,174.6343895,7003913,57,27,27,18,21,18,West Harbour
+4,2,"143 Annett Road Kumeu, Auckland",244,1625000,-36.801925,174.4992616,7002160,48,12,12,24,39,30,Kumeu
+3,1,"3a Farrelly Avenue Mount Roskill, Auckland",100,880000,-36.9023108,174.7287314,7004832,36,30,15,12,24,12,Wesley
+3,1,"777 Sandringham Rd Extension, Auckland",961 m²,1725000,-36.9016281,174.7299846,7004832,36,30,15,12,24,12,Wesley
+4,3,"34 Cliff Road Torbay, Auckland",1265,4110000,-36.6932175,174.7575555,7002104,30,24,12,18,36,54,Torbay
+2,1,"81 Goodall Street Hillsborough, Auckland",1738,1400000,-36.9285774,174.7582314,7007781,45,21,18,18,27,36,Hillsborough
+3,2,"29a Combes Road Remuera, Auckland",236,1550000,-36.8735442,174.801453,7005847,27,33,24,18,27,18,Remuera
+3,2,"64a Christmas Road Manurewa, Auckland",260,610000,-37.0300709,174.8998782,7009802,60,48,33,27,21,18,Manurewa
+3,1,"28 Frank Street Oneroa, Auckland",1151,920000,-36.7857182,175.0278159,7003353,30,30,30,33,21,45,Oneroa
+4,3,"Lot 4/2 Wyman Place Pakuranga, Auckland",163,645000,-36.9081354,174.8899885,7008790,54,36,33,18,18,15,Pakuranga Heights
+3,2,"69 Wainui Road Silverdale, Auckland",532,1300000,-36.6150797,174.6750308,7001459,0,0,0,0,0,0,Silverdale
+4,2,"122 Pulham Road Warkworth, Auckland",1513,890000,-36.409687,174.6729053,7001308,42,15,9,21,15,27,Warkworth
+2,1,"114 Trig Hill Road Onetangi, Auckland",806,580000,-36.7988192,175.0872079,7003394,42,9,18,21,27,42,Onetangi
+17,8,"Sandringham  Auckland City  1025 Sandringham, Auckland",1596,760000,-36.8836131,174.7388892,7004981,21,21,18,21,9,12,Sandringham
+4,2,"5 Henderson Valley Road Henderson Valley, Auckland",1143,875000,-36.8800363,174.6284291,7003883,36,15,21,15,24,30,Henderson
+5,3,"1/79 Russell Road Manurewa, Auckland",253,890000,-37.0209528,174.8830479,7009650,87,48,36,24,27,15,Manurewa
+2,1,"5/80 Awaroa Road Sunnyvale, Auckland",70,815000,-36.8960262,174.6410939,7004018,57,36,39,21,24,24,Sunnyvale
+4,3,"9 Toru Street Te Atatu Peninsula, Auckland",812,1484100,-36.8529014,174.6487203,7004092,42,24,24,21,18,9,Te Atatu Peninsula
+8,4,"145 Bombay Road Bombay, Auckland",2362,1825000,-37.1861371,174.9915621,7010377,51,9,18,36,27,42,Bombay
+1,1,"14a Kea Place Mangere Bridge, Auckland",449,570000,-36.9494292,174.7751889,7007849,45,18,21,24,24,39,Mangere Bridge
+4,4,"14b Kea Place Mangere Bridge, Auckland",460,1325000,-36.9494292,174.7751889,7007849,45,18,21,24,24,39,Mangere Bridge
+4,2,"Lot 1/71a () Russell Road Manurewa, Auckland",466,1975000,-37.021203,174.8829829,7009561,69,39,45,33,21,39,Manurewa
+2,1,"32a Fairlands Avenue Waterview, Auckland",105,990000,-36.883895,174.6970967,7004381,39,42,30,24,21,21,Waterview
+4,1,"9 Peace Avenue Mount Wellington, Auckland",1088,810000,-36.9268505,174.8554719,7008455,42,30,15,21,15,27,Mount Wellington
+3,2,"19 Tawa Road Te Atatu Peninsula, Auckland",170,670000,-36.8276749,174.6443647,7004043,60,33,33,30,30,30,Te Atatu Peninsula
+3,1,"6 Portage Road Papatoetoe, Auckland",1012,820000,-36.9706356,174.843384,7008406,102,63,36,18,21,21,Papatoetoe
+4,1,"2 Reding Street Takanini, Auckland",948,740000,-37.0383211,174.9206959,7009969,78,51,42,18,18,15,Takanini
+4,3,"3/13 Trimmer Terrace Papatoetoe, Auckland",178,770000,-36.9708905,174.8513235,7008524,33,27,18,15,18,12,Papatoetoe
+4,2,"165 Mill Road Bombay, Auckland",230,2050000,-37.1925446,174.9757129,7010369,45,21,12,21,39,21,Bombay
+3,2,"25 Ocean View Crescent Rakino Island, Auckland",1366,270000,-36.7195924,174.9495634,7001354,0,0,0,0,0,6,Rakino Island
+2,1,"2/66 South Pacific Road Rakino Island, Auckland",40,3250000,-36.7196717,174.9515235,7001354,0,0,0,0,0,6,Rakino Island
+3,2,"Lot 4 Hillcrest Heights Orewa, Auckland",184,920000,-36.5717005,174.6921667,7001471,45,27,12,39,42,57,Hatfields Beach
+4,3,"Lot 10 Hillcrest Heights Orewa, Auckland",188,1275000,-36.572094,174.69151,7001471,45,27,12,39,42,57,Hatfields Beach
+5,1,"6 Regent  Street Papatoetoe, Auckland",1429,1355000,-36.9783779,174.8701779,7008654,54,36,33,21,12,24,Papatoetoe
+3,2,"2/29 Jane Cowie Avenue Otahuhu, Auckland",57,530000,-36.9563132,174.8457959,7008385,66,42,39,15,12,12,Otahuhu
+2,1,"94 Hunterville Road Orapiu, Auckland",1040,1080000,-36.8019237,175.1080146,7003396,24,3,6,12,27,27,Waiheke Island
+4,3,"12 Royalty Rise Mt Eden, Auckland",343,830000,-36.6098767,174.7026638,7001550,48,15,15,27,27,69,Red Beach
+5,2,"66 Sample Road Auckland Central, Auckland",11000,1080000,-36.8484597,174.7633315,7005277,15,63,36,6,12,0,Auckland Central
+4,2,"18 Riserra Drive Ranui, Auckland",396,545000,-36.8649993,174.6118191,7003697,36,33,12,27,18,15,Ranui
+6,3,"4 Puketaha Road Swanson, Auckland",809,910000,-36.8705171,174.5552193,7003433,33,24,24,18,36,15,Swanson
+2,1,"4/66 Huia Road Papatoetoe, Auckland",70,500000,-36.9707107,174.8678652,7008631,15,30,21,9,18,15,Papatoetoe
+6,4,"35 Eynsham Court Dannemora, Auckland",1201,2550000,-36.9303095,174.9267783,7009277,57,24,21,24,48,51,Dannemora
+5,4,"Lot 238/30 Bearing Parade Long Bay, Auckland",450,1775000,-36.6884551,174.7460598,7002019,24,6,12,15,6,3,Long Bay
+5,4,"19 Buckleys Track Paremoremo, Auckland",9107,2400000,-36.7700201,174.6594109,7001795,36,9,12,15,21,21,Paremoremo
+2,1,"3 Matai Road Oneroa, Auckland",809,1120000,-36.7859279,175.0117572,7003343,27,18,30,24,12,21,Oneroa
+5,3,"71a Russell Road (lot 3) Manurewa, Auckland",394,560000,-37.0248793,174.893116,7009785,30,24,12,24,18,39,Manurewa
+4,3,"9 Cooperage Avenue Huapai, Auckland",493,500000,-36.772106,174.5442431,7002186,27,27,30,15,18,21,Huapai
+5,3,"39a Victoria Avenue Remuera, Auckland",305,2350000,-36.8781069,174.7990534,7005849,54,9,9,33,27,75,Remuera
+4,3,"33 Woodward Avenue Mangere Bridge, Auckland",342,1500000,-36.9445771,174.7855209,7007919,63,27,24,27,27,39,Mangere Bridge
+5,3,"10 Nanleen Rise The Gardens, Auckland",411,500000,-37.0152994,174.9106502,7009853,33,18,27,18,24,39,Manurewa
+5,3,"2 Nanleen Rise The Gardens, Auckland",491,520000,-37.0152994,174.9106502,7009853,33,18,27,18,24,39,Manurewa
+2,1,"1a Anzac Road Orapiu, Auckland",1070,790000,-36.8423596,175.1459818,7003397,12,0,6,18,24,36,Waiheke Island
+4,3,"9 Laingfield Terrace Laingholm, Auckland",4019,1320000,-36.9599266,174.6274677,7007159,48,12,12,27,27,30,Laingholm
+4,1,"30 Girrahween Drive Totara Vale, Auckland",1115,1155000,-36.7646405,174.7228284,7002731,24,9,18,15,6,18,Totara Vale
+5,4,"11 Millcroft Lane Ranui, Auckland",358,900000,-36.8720837,174.6045998,7003572,63,33,63,24,33,18,Ranui
+6,2,"78 Helvetia Road Pukekohe, Auckland",741,620000,-37.1974973,174.8897343,7010481,57,36,15,18,6,18,Pukekohe
+3,1,"1 Alaina Place Tuakau, Auckland",690,500000,-37.2593705,174.9463977,7011005,21,9,3,3,6,9,Tuakau
+4,1,"2 Alaina Place Tuakau, Auckland",548,460000,-37.2593705,174.9463977,7011005,21,9,3,3,6,9,Tuakau
+4,2,"16 Rodeo Drive Redvale, Auckland",10000,1875000,-36.6849893,174.7068034,7001835,39,15,18,21,21,15,Redvale
+6,5,"47 Island View Drive Gulf Harbour, Auckland",1083,2900000,-36.6159283,174.8048677,7001717,54,18,12,27,33,39,Gulf Harbour
+2,1,"235 Ocean View Road Oneroa, Auckland",3488,650000,-36.7864177,175.0220042,7003342,24,24,21,39,27,39,Oneroa
+2,2,"27 Hekerua Road Oneroa, Auckland",1161,1200000,-36.7846297,175.0256175,7003342,24,24,21,39,27,39,Oneroa
+5,3,"8 Bougainvillaea Terrace Manukau, Auckland",560,980000,-36.996419,174.900078,7009739,27,36,15,15,30,33,Goodwood Heights
+6,4,"1 Michael Bosher Way Flat Bush, Auckland",5024,2350000,-36.9856753,174.9475179,7009346,90,42,27,45,75,45,Flat Bush
+3,1,"358 Mangawhai Road Wellsford, Auckland",15550,550000,-36.2287416,174.5458102,7001139,48,30,21,21,33,45,Wellsford
+4,3,"Lot 2/31 Bolton Street Blockhouse Bay, Auckland",327,2200000,-36.9184693,174.6983382,7007478,39,33,24,24,33,63,Blockhouse Bay
+3,2,"4 Trimaran Drive Gulf Harbour, Auckland",151,510000,-36.6176288,174.7935301,7001696,72,21,30,60,33,45,Gulf Harbour
+2,1,"604/19 Anzac Avenue Auckland Central, Auckland",56,460000,-36.8462653,174.7712726,7005510,24,96,51,18,18,27,Auckland Central
+3,2,"17 Kanuka Road Hobsonville, Auckland",259,920000,-36.7937824,174.6609445,7002295,45,24,48,15,6,12,Hobsonville
+5,3,"13 Kaurimu Rise Titirangi, Auckland",985,1430000,-36.9321759,174.6453258,7007268,51,15,27,27,24,24,Titirangi
+5,3,"66 Moyrus Crescent East Tamaki, Auckland",804,2000000,-36.9393167,174.9237217,7009186,168,66,72,69,90,84,East Tamaki Heights
+4,2,"5 Piccolo Court Kumeu, Auckland",400,860000,-36.7633771,174.5496311,7002191,54,21,24,30,24,36,Kumeu
+3,1,"47 Simkin Avenue St Johns, Auckland",696,980000,-36.8747503,174.8437367,7006325,45,51,33,27,24,36,Saint Johns
+4,3,"54a Codrington Crescent Mission Bay, Auckland",1459,3175000,-36.8557743,174.8323847,7006173,39,15,12,18,21,36,Mission Bay
+5,3,"45 Taunton Terrace Blockhouse Bay, Auckland",305,2025000,-36.9316491,174.6961315,7007500,33,18,24,15,21,39,Blockhouse Bay
+3,2,"30b Rangiatea Road Epsom, Auckland",142,1550000,-36.8949982,174.7707909,7005621,48,30,27,33,27,21,Epsom
+4,3,"33 Bayvista Drive Karaka, Auckland",741,1700000,-37.083594,174.9193516,7010004,102,33,54,60,48,36,Karaka
+5,3,"28 Bayvista Drive Karaka, Auckland",553,1425000,-37.0833993,174.920226,7010004,102,33,54,60,48,36,Karaka
+2,1,"2/12 Blueridge Close Sunnyvale, Auckland",70,505000,-36.8930728,174.6362609,7004016,60,30,33,24,21,39,Sunnyvale
+3,1,"434 Porchester Road Randwick Park, Auckland",859,560000,-37.026097,174.923657,7009960,108,48,54,30,27,48,Randwick Park
+3,2,"2/183 Jervois Road Herne Bay, Auckland",195,1825000,-36.8459057,174.7333068,7004875,15,21,27,24,27,66,Herne Bay
+4,3,"7a Auckland Road St Heliers, Auckland",305,2850000,-36.8517202,174.8523981,7006411,30,15,15,18,27,75,St Heliers
+4,2,"2 Totara Haeata Lane Flat Bush, Auckland",155,3375000,-36.9835825,174.9092662,7009103,99,84,90,30,18,18,Flat Bush
+4,2,"8 Totara Haeata Lane Flat Bush, Auckland",183,810000,-36.9835825,174.9092662,7009103,99,84,90,30,18,18,Flat Bush
+2,1,"65 Glen Brook Road Omiha, Auckland",830,850000,-36.8154295,175.0615949,7003383,42,15,21,33,36,60,Omiha
+4,2,"21 Gavinike Place Waimauku, Auckland",1507,1200000,-36.7715362,174.4831794,7002146,39,9,33,18,21,24,Waimauku
+4,2,"3/23 Waiatarua Road Remuera, Auckland",194,1425000,-36.8754454,174.8215719,7006074,78,15,24,51,27,21,Remuera
+4,2,"19 Mataoho Lane Mangere, Auckland",505,790000,-36.9641496,174.8227791,7008184,165,60,66,45,39,39,Mangere East
+4,2,"242 Jones Road Hunua, Auckland",213,1050000,-37.07142,175.0372426,7010278,39,15,18,24,33,21,Hunua
+4,2,"116 Simmental Crescent Somerville, Auckland",619,1325000,-36.9172991,174.9349122,7009262,30,12,15,15,15,33,Somerville
+4,2,"3 Bledisloe Street Cockle Bay, Auckland",822,970000,-36.905038,174.9367021,7007012,60,18,27,33,9,15,Cockle Bay
+4,2,"72a Anzac Road Pukekohe, Auckland",505,980000,-37.2216763,174.8968726,7010517,51,21,27,24,30,54,Pukekohe
+3,2,"17 Old Wairoa Road Papakura, Auckland",350,710000,-37.05657,174.9440576,7010105,63,24,42,18,21,33,Papakura
+5,3,"102b Mellons Bay Road Mellons Bay, Auckland",751,2100000,-36.8878635,174.9316278,7006938,54,21,18,33,36,42,Mellons Bay
+4,2,"18b Vardon Road Green Bay, Auckland",542,1175000,-36.9321012,174.6801566,7007452,42,15,15,21,21,27,Green Bay
+7,2,"12 Waima Street Grey Lynn, Auckland",357,1120000,-36.8635176,174.7506549,7005119,15,48,45,9,9,12,Grey Lynn
+4,3,"12 Monmouth Street, Auckland",334 m²,1700000,-36.8627002,174.7505971,7005119,15,48,45,9,9,12,Grey Lynn
+5,4,"58a Reelick Avenue Pakuranga, Auckland",376,1800000,-36.915095,174.8971716,7006764,51,24,30,27,9,33,Pakuranga Heights
+5,3,"5/48 Mays Road Onehunga, Auckland",287,1175000,-36.9170093,174.7978923,7007984,30,15,21,9,15,15,Onehunga
+5,2,"4/48 Mays Road, Auckland",292 m²,1175000,-36.9170093,174.7978923,7007984,30,15,21,9,15,15,Onehunga
+3,2,"8 Rostrevor Avenue Epsom, Auckland",121,1600000,-36.903153,174.7682399,7005476,30,18,9,24,18,18,Epsom
+3,1,"105 Waitakere Road Waitakere, Auckland",911,960000,-36.8527977,174.5442987,7003424,78,39,33,45,24,12,Waitakere
+4,1,"158 Wordsworth Road Manurewa, Auckland",607,570000,-37.0246359,174.8718344,7009576,78,30,24,24,21,21,Manurewa
+4,2,"64a Haseler Crescent Mellons Bay, Auckland",800,1550000,-36.8865462,174.9237292,7006896,54,27,18,21,54,54,Howick
+3,1,"192 Kitchener Road Pukekohe, Auckland",1095,860000,-37.2182453,174.895161,7010516,33,18,18,21,33,39,Pukekohe
+5,2,"13 Tampin Road Hill Park, Auckland",900,840000,-37.0117347,174.8943598,7009765,60,36,39,24,30,18,Manurewa
+5,4,"43 Riverlea Avenue Pakuranga, Auckland",1298,2750000,-36.9079754,174.8636067,7006614,45,15,27,24,30,72,Pakuranga
+4,2,"13 Siena Place Te Atatu Peninsula, Auckland",509,1080000,-36.8443017,174.6548741,7004212,27,15,24,21,27,24,Te Atatu Peninsula
+3,2,"3/28 Ireland Road Panmure, Auckland",604,1000000,-36.900176,174.8490858,7006464,24,39,24,12,12,27,Mount Wellington
+3,2,"41 Sanremo Lane Stanmore Bay, Auckland",347,770000,-36.6335401,174.7350362,7001648,24,24,12,30,27,27,Stanmore Bay
+2,2,"21a Madill Street Tuakau, Auckland",362,580000,-37.2604594,174.9502378,7011006,69,18,33,30,24,45,Tuakau
+3,2,"125 Charles Prevost Drive The Gardens, Auckland",752,890000,-37.0037766,174.9192676,7009935,63,21,21,45,36,57,The Gardens
+4,3,"160 Hutchinson Avenue New Lynn, Auckland",362,1105000,-36.9212094,174.673548,7007379,36,30,36,24,24,24,New Lynn
+2,1,"8b Budgen Street Mount Roskill, Auckland",73,620000,-36.9237379,174.7333768,7007621,24,36,15,24,18,21,Mount Roskill
+3,1,"13 La Perouse Street Botany Downs, Auckland",713,940000,-36.907574,174.9217784,7009119,78,39,27,48,45,39,Botany Downs
+2,1,"403/17 Putney Way Manukau, Auckland",43,380000,-36.9930125,174.8784499,7008786,21,39,36,24,21,24,Manukau
+2,1,"605/17 Putney Way Manukau, Auckland",45,385000,-36.9930125,174.8784499,7008786,21,39,36,24,21,24,Manukau
+5,2,"22 Pinedale Place Henderson, Auckland",665,880000,-36.8687518,174.6254575,7003863,54,33,30,27,30,39,Henderson
+2,1,"81 Maungarei Road Remuera, Auckland",221,840000,-36.885465,174.816169,7006100,39,24,27,27,18,39,Remuera
+8,5,"125 Thomas Road Flat Bush, Auckland",378,1360000,-36.985086,174.9139238,7009108,18,18,12,15,18,18,Flat Bush
+5,3,"23 Onemana Way Te Atatu Peninsula, Auckland",664,1790000,-36.8386119,174.6605463,7004208,33,18,15,9,24,27,Te Atatu Peninsula
+4,2,"28a Hoskins Avenue Hillsborough, Auckland",906,1125000,-36.9293676,174.7568343,7007737,30,18,12,24,21,12,Hillsborough
+3,2,"11a Dell Avenue Remuera, Auckland",397,1875000,-36.8712071,174.8066445,7005976,42,15,21,24,33,36,Remuera
+3,1,"108 Riversdale Road Avondale, Auckland",470,725000,-36.8951746,174.6804551,7004343,66,42,39,36,18,21,Avondale
+3,2,"10 Davington Way Burswood, Auckland",562,1025000,-36.9223137,174.8937192,7008926,63,51,57,39,45,78,Burswood
+5,3,"129 Point View Drive East Tamaki, Auckland",5340,1875000,-36.9455156,174.9261479,7006957,45,27,21,24,24,39,East Tamaki Heights
+5,3,"19 Murrayfield Lane The Gardens, Auckland",507,910000,-37.0111772,174.9171198,7009944,60,24,33,27,21,18,Manurewa
+4,2,"8 Murrayfield Lane The Gardens, Auckland",403,860000,-37.0107023,174.9174573,7009944,60,24,33,27,21,18,Manurewa
+5,2,"3 Fishermans Cove Army Bay, Auckland",605,1150000,-36.6045094,174.7932875,7001682,45,24,18,33,27,48,Army Bay
+4,3,"6 Deepak Lane Papatoetoe, Auckland",184,860000,-36.975556,174.836166,7008313,57,45,33,24,24,24,Papatoetoe
+3,1,"22 Rivendell Place Warkworth, Auckland",714,770000,-36.4011922,174.6712341,7001301,6,12,6,9,12,72,Warkworth
+3,1,"39a Goodwin Drive Rosehill, Auckland",492,600000,-37.0833488,174.9381973,7010086,54,27,27,30,12,21,Rosehill
+2,1,"6/17 Waitangi Road Onehunga, Auckland",82,530000,-36.9133821,174.8013498,7008075,69,30,36,30,18,24,Onehunga
+2,2,"8 Omanawa Lane Great Barrier Island, Auckland",8638,650000,-36.305955,175.4924245,7001135,30,21,21,21,39,69,Great Barrier Island (Aotea Island)
+3,2,"21 Denarius Lane Glendene, Auckland",352,570000,-36.8886106,174.6563372,7004225,33,24,27,18,15,18,Glendene
+2,1,"9a/8 Quay Street Auckland Central, Auckland",91,680000,-36.8478196,174.7807136,7005655,78,204,177,45,15,12,Auckland Central
+5,3,"117 Valley Road Pukekohe, Auckland",722,990000,-37.1867797,174.9166046,7010545,45,12,15,24,21,18,Pukekohe
+4,2,"54 Belmont Road Pukekohe, Auckland",352,690000,-37.2056603,174.8808038,7010462,27,12,12,15,12,21,Pukekohe
+5,4,"39 Spencer Street Remuera, Auckland",683,1975000,-36.8689117,174.797773,7005827,33,12,6,24,15,15,Remuera
+5,2,"37A Spencer Street, Auckland",377 m²,2350000,-36.8690673,174.7978168,7005827,33,12,6,24,15,15,Remuera
+3,2,"44 Rewa Road Maraetai, Auckland",1198,1100000,-36.8850429,175.041516,7007085,36,18,12,24,18,27,Maraetai
+4,1,"53 Cargill Street Papakura, Auckland",1136,610000,-37.0565761,174.9642808,7010227,48,21,27,12,18,21,Papakura
+4,3,"58 Churchill Road Cockle Bay, Auckland",860,1750000,-36.9014009,174.9468893,7007005,39,12,18,21,24,30,Cockle Bay
+3,1,"29 Rena Place West Harbour, Auckland",326,910000,-36.8228391,174.6281755,7003786,120,42,30,33,24,18,West Harbour
+2,1,"1a/10 Laxon Terrace Remuera, Auckland",130,940000,-36.8666809,174.7804682,7005703,24,30,24,12,24,18,Remuera
+2,1,"51 Weymouth Road Manurewa, Auckland",908,550000,-37.025779,174.8907126,7009667,66,30,33,21,21,18,Manurewa
+5,4,"54 Sayegh Street St Heliers, Auckland",1358,3125000,-36.8603271,174.851155,7006406,51,27,30,27,24,27,St Heliers
+4,2,"8/59 Favona Road Favona, Auckland",138,570000,-36.9504082,174.8067565,7008081,105,39,42,45,33,21,Favona
+3,1,"20 Cargill Street Papakura, Auckland",746,560000,-37.0567918,174.9660537,7010228,87,39,39,36,33,27,Papakura
+3,1,"36 Bellfield Road Papakura, Auckland",732,690000,-37.0778044,174.9465959,7010140,42,27,30,27,24,33,Opaheke
+3,1,"13 Poutini Place Manurewa, Auckland",610,530000,-37.0268476,174.8690848,7009475,96,42,33,18,36,18,Manurewa
+4,2,"29 Brightwell Street Papakura, Auckland",311,300000,-37.0512798,174.9619612,7010161,54,27,36,12,15,9,Papakura
+3,1,"15 Kindergarten Drive Conifer Grove, Auckland",862,630000,-37.0458133,174.9145655,7009918,75,24,33,21,21,24,Conifer Grove
+3,1,"19 Kitewaho Road Swanson, Auckland",1396,885000,-36.8786421,174.5495642,7003427,78,24,27,48,42,48,Swanson
+3,2,"859 Scenic Drive Swanson, Auckland",2933,980000,-36.8860682,174.5424633,7003427,78,24,27,48,42,48,Swanson
+5,4,"15 Polo Prince Drive Alfriston, Auckland",5093,1700000,-37.0061263,174.9303335,7010006,15,12,6,9,30,24,Totara Park
+4,2,"17 Calder Place Glendowie, Auckland",810,3700000,-36.8694386,174.8809452,7006674,33,9,9,15,21,27,Wai O Taiki Bay
+5,3,"32 Rangitoto Avenue Remuera, Auckland",938,3125000,-36.8770444,174.8081734,7005985,30,12,6,21,24,24,Remuera
+4,3,"32 Rangitoto Avenue, Auckland",938 m²,3125000,-36.8770444,174.8081734,7005985,30,12,6,21,24,24,Remuera
+4,3,"20a Lisburn Avenue Glendowie, Auckland",403,2575000,-36.8604098,174.878016,7006636,45,9,15,21,36,30,Glendowie
+5,2,"2 Richard Farrell Avenue Remuera, Auckland",300,1600000,-36.8852812,174.8103013,7006007,15,27,21,6,3,21,Remuera
+5,2,"598 Te Atatu Road Te Atatu Peninsula, Auckland",809,1025000,-36.8382589,174.6506283,7004073,33,21,21,18,15,18,Te Atatu Peninsula
+4,3,"4/102 Kohimarama Road Kohimarama, Auckland",251,2625000,-36.8539339,174.8373889,7006290,60,9,15,30,27,36,Kohimarama
+4,2,"25 Moloney Terrace Pukekohe, Auckland",698,640000,-37.2014081,174.8914514,7010489,39,30,27,15,24,30,Pukekohe
+5,3,"56 Pine Harbour Parade Beachlands, Auckland",724,1400000,-36.8872459,174.9897884,7007032,48,9,12,30,30,48,Beachlands
+3,1,"2/19 Heathberry Close Papatoetoe, Auckland",80,600000,-36.9858679,174.8419013,7008434,78,57,51,18,15,24,Papatoetoe
+2,1,"5/3 Koromiko Street New Lynn, Auckland",90,500000,-36.9028247,174.6723392,7004289,57,24,36,24,18,27,New Lynn
+5,3,"12 Culdaff Place Mount Roskill, Auckland",818,1300000,-36.9264573,174.7295618,7007622,42,24,27,21,30,30,Mount Roskill
+3,1,"1/10 Hueglow Rise West Harbour, Auckland",100,660000,-36.8215752,174.6218255,7003776,78,45,48,36,30,21,West Harbour
+2,1,"29 Crescent Road West Ostend, Auckland",2256,680000,-36.7865104,175.0495212,7003375,36,15,21,36,27,45,Ostend
+6,4,"15 Rashni Road Flat Bush, Auckland",377,1350000,-36.9744792,174.9289209,7009313,24,15,21,12,6,12,Flat Bush
+6,5,"22 Horsefield Drive Flat Bush, Auckland",413,710000,-36.9734507,174.9263337,7009313,24,15,21,12,6,12,Flat Bush
+2,1,"39 Albert Street Otahuhu, Auckland",696,680000,-36.9398528,174.851282,7008479,51,21,30,6,15,9,Otahuhu
+2,2,"86 Hendon Avenue Mount Albert, Auckland",197,540000,-36.8983921,174.7131434,7004644,60,45,27,18,18,21,Mount Albert
+3,2,"53a Clarendon Road St Heliers, Auckland",216,1300000,-36.8474999,174.8624588,7006477,33,27,24,21,36,54,St Heliers
+3,1,"8 Muritai Road Ostend, Auckland",893,760000,-36.793598,175.0474039,7003379,24,12,15,15,30,24,Ostend
+5,3,"181b Titirangi Road Titirangi, Auckland",2188,1350000,-36.9182345,174.663202,7007314,21,21,18,15,24,18,Titirangi
+4,3,"19 Karika Place Massey, Auckland",508,1125000,-36.8500525,174.6071215,7003528,60,48,57,33,18,33,Massey
+4,2,"10 Chamberlain Road Massey, Auckland",1012,1055000,-36.8470531,174.6064801,7003528,60,48,57,33,18,33,Massey
+3,1,"1b Titoki Street Te Atatu Peninsula, Auckland",407,860000,-36.8553172,174.6511561,7004094,48,27,27,30,18,21,Te Atatu Peninsula
+6,2,"112a Taylor Street Blockhouse Bay, Auckland",284,1350000,-36.9174856,174.6999272,7007477,36,12,21,33,3,33,Blockhouse Bay
+5,4,"17 Avice Street Remuera, Auckland",516,2525000,-36.887315,174.7970359,7005867,24,12,6,21,33,27,Remuera
+3,1,"2/29 President Avenue Papakura, Auckland",80,440000,-37.0585226,174.9639231,7010231,90,24,30,30,15,24,Papakura
+5,2,"8 Janese Place Weymouth, Auckland",604,620000,-37.0377352,174.8616483,7009503,99,42,39,27,18,18,Weymouth
+1,1,"54/8 Landscape Road Papatoetoe, Auckland",70,430000,-36.979802,174.8581819,7008565,18,15,24,18,18,33,Papatoetoe
+4,1,"48 Church Road Mangere Bridge, Auckland",675,1150000,-36.9419145,174.7811504,7007914,30,21,15,9,15,30,Mangere Bridge
+4,1,"67 Finch Street Western Springs, Auckland",703,1360000,-36.8687877,174.7357501,7004961,39,48,48,24,27,9,Morningside
+5,3,"61a Finch Street Western Springs, Auckland",357,1600000,-36.8694257,174.7357088,7004961,39,48,48,24,27,9,Morningside
+2,1,"142a Church Street Otahuhu, Auckland",288,530000,-36.9477657,174.8484897,7008494,81,39,30,24,21,24,Otahuhu
+3,1,"150 Aviemore Drive Highland Park, Auckland",481,795000,-36.910306,174.9077942,7006871,57,33,24,27,33,27,Highland Park
+4,2,"20 Kurahaupo Street Orakei, Auckland",198,1500000,-36.8602016,174.8251243,7006165,24,9,21,12,21,24,Orakei
+7,5,"11 Lavey Road Flat Bush, Auckland",411,1340000,-36.9798511,174.9091138,7009100,69,51,48,33,15,36,Flat Bush
+4,2,"62 Lyons Avenue Murrays Bay, Auckland",663,1370000,-36.7280824,174.7467457,7002987,51,15,27,21,27,18,Murrays Bay
+5,3,"36 Pigeon Mountain Road Half Moon Bay, Auckland",750,1775000,-36.886354,174.9005817,7006819,60,18,33,36,42,42,Half Moon Bay
+3,2,"18 St Vincent Avenue Remuera, Auckland",587,2075000,-36.8825261,174.7995996,7005856,45,36,12,18,33,33,Remuera
+3,1,"552 Swanson Road Ranui, Auckland",1233,915000,-36.8646835,174.5954962,7003477,51,36,33,27,27,18,Ranui
+3,1,"84 Kitchener Road Waiuku, Auckland",1103,580000,-37.2459516,174.7398056,7010424,51,15,18,21,18,21,Waiuku
+3,2,"188 Cliff View Drive Green Bay, Auckland",577,1275000,-36.9355287,174.6756054,7007410,81,33,39,42,33,54,Green Bay
+4,3,"25 Woodside Crescent St Heliers, Auckland",922,2750000,-36.8569105,174.8564186,7006493,39,6,9,21,18,27,St Heliers
+5,3,"29 Carnoustie Drive Wattle Downs, Auckland",600,1000000,-37.0499739,174.8911802,7009716,57,21,27,15,30,42,Wattle Downs
+4,4,"220c Metcalfe Road Ranui, Auckland",561,1340000,-36.873823,174.5997541,7003578,102,84,78,54,42,45,Ranui
+4,2,"7 Sunrise Lane Te Atatu South, Auckland",987,1050000,-36.8612461,174.6513205,7004106,24,30,36,21,36,39,Te Atatu South
+4,2,"103a Tarawera Terrace St Heliers, Auckland",461,1550000,-36.8593031,174.8466779,7006403,60,6,18,39,33,39,St Heliers
+3,2,"3/51 Redoubt Road Goodwood Heights, Auckland",150,630000,-36.9924403,174.8943779,7009726,39,33,21,12,12,21,Goodwood Heights
+4,3,"32 Young Garden Lane Waimauku, Auckland",7139,1650000,-36.7832722,174.459546,7002142,39,18,9,27,30,33,Waimauku
+4,2,"18 Discovery Drive Gulf Harbour, Auckland",558,1000000,-36.6232582,174.7964894,7001721,78,18,57,39,15,39,Gulf Harbour
+4,2,"4 Armstrong Way Waiuku, Auckland",3162,880000,-37.2606645,174.7290907,7010417,75,27,27,39,30,24,Waiuku
+4,2,"160 Polo Prince Drive Alfriston, Auckland",5884,1725000,-37.0102928,174.9195987,7009945,48,33,36,30,39,42,Alfriston
+3,1,"13 Carlas Way Ranui, Auckland",250,630000,-36.8673498,174.6016886,7003563,60,21,30,24,21,18,Ranui
+5,2,"76b Lake Road Devonport, Auckland",508,910000,-36.8133481,174.7927736,7005772,30,12,9,27,27,45,Narrow Neck
+6,3,"14 View Road Mount Eden, Auckland",755,2950000,-36.874392,174.7604416,7005398,24,30,36,12,12,9,Mount Eden
+3,2,"73a Island Bay Road Beach Haven, Auckland",1047,1050000,-36.809956,174.693898,7002468,27,18,12,9,27,18,Beach Haven
+5,2,"30 Barrys Road Glendene, Auckland",1002,920000,-36.885154,174.6569697,7004222,21,15,15,12,9,15,Glendene
+4,2,"65 Old Coach Way Ramarama, Auckland",7480,1500000,-37.1539815,174.9593174,7010368,30,9,15,21,27,39,Ramarama
+4,2,"65 Old Coach Way Ramarama, Auckland",7480,1500000,-37.1539815,174.9593174,7010368,30,9,15,21,27,39,Ramarama
+2,2,"80 Bellbird Street Papakura, Auckland",119,700000,-37.0510717,174.9523543,7010158,81,30,36,18,21,15,Papakura
+2,2,"78 Bellbird Street Papakura, Auckland",119,700000,-37.0510717,174.9523543,7010158,81,30,36,18,21,15,Papakura
+5,3,"107 Waller Avenue Bucklands Beach, Auckland",1126,2200000,-36.8685029,174.9051402,7006782,36,18,18,18,27,39,Bucklands Beach
+3,1,"2 Coptic Place Mangere, Auckland",706,600000,-36.968729,174.8119349,7008123,141,42,39,45,36,27,Mangere East
+3,1,"24 Catkin Crescent Papatoetoe, Auckland",603,700000,-36.984773,174.8354962,7008319,36,21,21,18,21,21,Papatoetoe
+5,3,"64 Ngapuhi Road Remuera, Auckland",266,2175000,-36.8745372,174.8152127,7006065,30,12,24,9,30,30,Remuera
+3,1,"16 Noel Burnside Road Wiri, Auckland",842,720000,-36.992832,174.8488498,7008321,48,30,18,12,27,24,Wiri
+3,1,"480 Swanson Road Ranui, Auckland",1012,1020000,-36.8642678,174.6018675,7003558,36,21,21,18,21,27,Ranui
+4,2,"76 Cheriton Road Mellons Bay, Auckland",1599,1150000,-36.8860015,174.9279754,7006940,69,30,27,51,24,42,Mellons Bay
+6,2,"2 Jellicoe Street Otahuhu, Auckland",1014,1300000,-36.953207,174.8454736,7008382,51,21,18,15,18,18,Otahuhu
+3,2,"161 Waitemata Drive Ranui, Auckland",350,670000,-36.8618218,174.6049088,7003548,78,36,33,36,15,24,Ranui
+3,1,"13a Roys Road Weymouth, Auckland",120,630000,-37.050791,174.861378,7009529,30,21,21,15,24,27,Weymouth
+3,1,"66 Triangle Road Massey, Auckland",100,620000,-36.836371,174.6099833,7003508,69,45,39,21,24,12,Massey
+3,2,"11a Princess Maria Place Massey, Auckland",803,950000,-36.8350485,174.6293526,7003813,33,21,21,15,24,45,Massey
+3,1,"14 Charntay Avenue Clover Park, Auckland",400,625000,-36.9871488,174.8919507,7008908,120,66,51,51,18,36,Clover Park
+2,1,"70 Tamaki Avenue Otahuhu, Auckland",936,740000,-36.9531644,174.8496839,7008498,54,39,33,24,36,30,Otahuhu
+5,3,"8a Shelly Beach Parade Cockle Bay, Auckland",1207,1850000,-36.8999324,174.949745,7007018,36,15,9,21,12,33,Cockle Bay
+3,1,"90 Porchester Road Papakura, Auckland",519,560000,-37.053359,174.9375378,7010039,45,39,36,21,30,33,Papakura
+4,2,"195 Wairere Road Waitakere, Auckland",1409,880000,-36.8525715,174.5165363,7003417,21,15,12,21,27,30,Waitakere
+3,1,"10 Onslow Road Mount Eden, Auckland",161,1380000,-36.8740206,174.7504789,7005168,36,33,18,27,21,24,Mount Eden
+4,2,"32 Tramway Road Beach Haven, Auckland",956,880000,-36.7949259,174.6910567,7002449,33,24,15,21,15,15,Beach Haven
+4,1,"16 Raleigh Street Mount Eden, Auckland",607,1575000,-36.8758066,174.746527,7005171,48,39,12,30,24,9,Mount Eden
+5,3,"43 Great South Road Papatoetoe, Auckland",809,1250000,-36.9657829,174.8567632,7008516,48,51,24,30,15,15,Papatoetoe
+3,1,"97f Settlement Road Papakura, Auckland",405,600000,-37.0672518,174.961045,7010248,24,6,9,12,9,12,Papakura
+4,2,"6 Riki Road Point England, Auckland",812,1425000,-36.8842695,174.8693812,7006661,36,18,15,9,9,18,Point England
+3,1,"24 Fleming Street Manurewa, Auckland",1196,600000,-37.0241544,174.9052145,7009887,51,27,18,12,12,15,Manurewa East
+3,1,"Mount Wellington  Auckland City  1060 Mount Wellington, Auckland",1014,5600000,-36.9084854,174.8387404,7008323,30,39,30,21,27,15,Mount Wellington
+4,2,"12 John Fair Drive Wainui, Auckland",602,455000,-36.6009453,174.5919841,7001358,54,30,18,30,48,48,Wainui
+4,3,"85 Carlton Street Hillsborough, Auckland",437,1225000,-36.9237381,174.7621104,7007776,51,30,42,33,36,30,Hillsborough
+3,1,"18 Quona Avenue Mount Roskill, Auckland",567,890000,-36.9291518,174.7380482,7007683,45,48,33,27,21,33,Mount Roskill
+4,2,"17a Banks Road Mount Wellington, Auckland",500,1230000,-36.8989042,174.837354,7006376,30,24,12,21,15,9,Mount Wellington
+3,1,"21 Elm Street Avondale, Auckland",132,860000,-36.8949685,174.6938669,7004404,6,3,15,12,12,147,Avondale
+2,1,"2/108 Asquith Avenue Mount Albert, Auckland",70,710000,-36.8751629,174.724321,7004759,60,42,57,33,27,18,Mount Albert
+3,1,"225 Glengarry Road Glen Eden, Auckland",365,580000,-36.9161923,174.6277092,7007141,69,39,24,18,15,12,Glen Eden
+4,2,"74 Waimahia Avenue Weymouth, Auckland",597,870000,-37.0428312,174.8714538,7009516,105,51,36,39,33,36,Weymouth
+3,1,"25 Gills Road Bucklands Beach, Auckland",627,960000,-36.890286,174.9173753,7006893,51,30,27,12,36,36,Bucklands Beach
+6,4,"34d Kiteroa Terrace Rothesay Bay, Auckland",451,1300000,-36.72428,174.74374,7002079,30,21,18,12,12,12,Rothesay Bay
+3,1,"2/7 Volta Place Clendon Park, Auckland",80,390000,-37.0297799,174.8615585,7009492,147,54,39,33,45,18,Clendon Park
+4,1,"26 Templeton Place Clendon Park, Auckland",610,465000,-37.0305175,174.861123,7009492,147,54,39,33,45,18,Clendon Park
+4,2,"29 Papango Street Stonefields, Auckland",280,1500000,-36.8890341,174.843808,7006358,54,24,27,33,21,39,Stonefields
+3,2,"72 O'brien Road Omiha, Auckland",809,600000,-36.8178737,175.0565507,7003372,27,3,3,24,21,42,Omiha
+3,1,"82 Wharf Road Te Atatu Peninsula, Auckland",819,920000,-36.8312707,174.651131,7004062,57,21,36,33,15,24,Te Atatu Peninsula
+3,1,"403 Blockhouse Bay Road Blockhouse Bay, Auckland",1012,1150000,-36.9151938,174.7018638,7007472,51,42,36,24,15,39,Blockhouse Bay
+4,2,"289b Old North Road Kumeu, Auckland",325,1950000,-36.7664383,174.5644001,7002198,48,24,6,36,18,24,Kumeu
+3,1,"297a Swanson Road Ranui, Auckland",499,650000,-36.860793,174.6091341,7003546,60,39,30,21,21,24,Ranui
+3,1,"10a Ussher Place Pakuranga, Auckland",259,770000,-36.9094768,174.8889329,7008791,42,15,24,27,9,18,Pakuranga Heights
+4,2,"52 Keri Vista Rise Papakura, Auckland",458,750000,-37.0584227,174.9739408,7010220,144,54,72,36,42,24,Papakura
+4,2,"51 Bayside Drive Browns Bay, Auckland",350,1160000,-36.7268294,174.7370666,7002014,51,15,27,24,12,21,Browns Bay
+4,3,"35 Kerswill Place Pakuranga, Auckland",639,1870000,-36.9079996,174.8603389,7006615,48,33,27,27,27,42,Pakuranga
+3,1,"36 Yearsley Place Manurewa, Auckland",607,600000,-37.0227692,174.8682038,7009457,117,60,30,33,30,27,Manurewa
+3,1,"1612 South Head Road Helensville, Auckland",6158,780000,-36.562416,174.3170782,7001254,30,9,9,18,12,33,South Head
+4,3,"Lot 8/6 Clovelly Road (3 Tomonga Way) Bucklands Beach, Auckland",301,2000000,-36.8581213,174.901969,7006768,33,12,15,18,24,42,Bucklands Beach
+2,2,"4337a Great North Road Glendene, Auckland",76,930000,-36.887498,174.6447738,7004164,51,24,36,27,39,69,Glendene
+4,2,"34a The Parade Bucklands Beach, Auckland",400,1890000,-36.8660654,174.9027367,7006780,33,15,9,24,24,33,Bucklands Beach
+2,2,"31 Kings Road Panmure, Auckland",125,840000,-36.9019039,174.8600165,7006610,30,15,21,18,9,39,Panmure
+3,1,"8 Glennis Place Clendon Park, Auckland",618,510000,-37.02656,174.8655584,7009470,120,57,45,45,39,21,Clendon Park
+5,3,"40 Eugenia Rise Totara Heights, Auckland",672,910000,-37.0028331,174.901131,7009755,63,63,45,33,45,63,Totara Heights
+4,2,"49 Couldrey Crescent Red Beach, Auckland",466,960000,-36.609543,174.6974009,7001552,33,9,15,15,6,18,Red Beach
+5,3,"65 Symes Drive Red Beach, Auckland",601,620000,-36.6080545,174.695604,7001552,33,9,15,15,6,18,Red Beach
+4,3,"26 Pencaitland Drive Flat Bush, Auckland",224,940000,-36.967142,174.9149611,7009232,201,138,138,78,54,57,Flat Bush
+4,3,"8 Ireland Street Freemans Bay, Auckland",244,1950000,-36.8501817,174.7492844,7005090,24,36,21,12,24,54,Freemans Bay
+4,2,"1 Mcarthur Close Silverdale, Auckland",218,890000,-36.8536657,174.8648066,7006486,54,12,21,30,30,39,St Heliers
+4,2,"33 Yattendon Road, Auckland",375 m²,2100000,-36.8520398,174.8632513,7006486,54,12,21,30,30,39,St Heliers
+4,3,"2/48 Onslow Avenue Epsom, Auckland",228,1775000,-36.8962024,174.7694086,7005623,42,36,15,33,18,39,Epsom
+5,2,"19 Heathridge Place Burswood, Auckland",704,1025000,-36.9246398,174.8991734,7008933,42,27,36,21,18,12,Burswood
+3,3,"22 Walters Road Mount Eden, Auckland",536,850000,-36.8743144,174.7471131,7005169,9,27,36,15,6,6,Mount Eden
+3,2,"30 Grassways Avenue Pakuranga, Auckland",371,950000,-36.9129704,174.8793489,7008686,33,24,33,21,21,18,Pakuranga
+5,4,"82 Tautari Street Orakei, Auckland",887,3600000,-36.8590175,174.8210804,7006051,54,39,36,27,27,33,Orakei
+4,2,"13 Seafort Lane Millwater, Auckland",666,1200000,-36.605053,174.6699028,7001416,96,18,60,48,30,39,Silverdale
+4,2,"9 Bellwood Avenue Mount Eden, Auckland",397,1700000,-36.8767079,174.7488003,7005161,24,36,36,27,6,9,Mount Eden
+4,1,"32 Wallace Road Mangere Bridge, Auckland",607,950000,-36.9469127,174.7759574,7007846,63,30,42,42,21,36,Mangere Bridge
+4,3,"21 Korimako Avenue Mangere Bridge, Auckland",300,880000,-36.9589,174.7870691,7007938,138,63,66,45,24,30,Mangere Bridge
+3,1,"43 Crawford Avenue Mangere Bridge, Auckland",550,1000000,-36.9441079,174.7903396,7007920,69,42,42,45,36,84,Mangere Bridge
+2,1,"35 Waterlea Avenue Mangere Bridge, Auckland",680,960000,-36.9435627,174.7686467,7007842,72,21,36,33,21,54,Mangere Bridge
+4,3,"151 Shore Road, Auckland",784 m²,2300000,-36.8660765,174.8041978,7005965,60,15,27,24,27,21,Remuera
+3,1,"4 Heretaunga Avenue, Auckland",584 m²,1055000,-36.9189515,174.7944395,7007988,45,18,30,33,24,21,Onehunga
+5,4,"4A Heretaunga Avenue, Auckland",888 m²,1680000,-36.9186243,174.7943984,7007988,45,18,30,33,24,21,Onehunga
+4,3,"4 Tropicana Drive, Auckland",683 m²,880000,-36.9225447,174.7189454,7007566,48,48,42,33,33,45,Mount Roskill
+6,5,"50 Valley Road, Auckland",424 m²,1455000,-36.8787694,174.7569337,7005411,48,18,12,24,21,27,Mount Eden
+5,2,"86 Arney Road, Auckland",1025 m²,3800000,-36.8680346,174.7921862,7005844,39,15,9,24,15,27,Remuera
+5,5,"126 Arney Road, Auckland",1449 m²,5000000,-36.8669362,174.7899962,7005844,39,15,9,24,15,27,Remuera
+5,4,"293A Mt Eden Road, Auckland",480 m²,1240000,-36.8763247,174.7612334,7005400,33,75,42,24,33,36,Mount Eden
+6,7,"293 Mt Eden Road, Auckland",507 m²,1875000,-36.8763247,174.7612334,7005400,33,75,42,24,33,36,Mount Eden
+5,5,"293B Mount Eden Road, Auckland",506 m²,2525000,-36.8763247,174.7612334,7005400,33,75,42,24,33,36,Mount Eden
+3,2,"5 Netherton Street, Auckland",825 m²,970000,-36.903199,174.7191311,7004664,33,21,27,21,18,30,New Windsor
+4,1,"13 Geneva Place, Auckland",718 m²,1040000,-36.9158503,174.7039948,7007527,42,33,15,21,27,27,Blockhouse Bay
+3,2,"4 Atanga Avenue, Auckland",531 m²,2125000,-36.8959452,174.760417,7005460,45,24,15,21,24,27,Mount Eden
+3,1,"16 Dunedin Street, Auckland",306 m²,2525000,-36.8444472,174.7473303,7005080,24,12,18,21,18,69,Saint Marys Bay
+4,3,"49A Southern Cross Road, Auckland",328 m²,1220000,-36.8596012,174.8434193,7006303,36,15,15,24,30,45,Kohimarama
+3,2,"733 Mt Eden Road, Auckland",607 m²,1360000,-36.892654,174.7587442,7005442,27,51,30,18,18,18,Mount Eden
+3,1,"27 Cowan Street, Auckland",218 m²,1525000,-36.8492467,174.741151,7004883,36,24,33,36,27,30,Ponsonby
+3,2,"3 Westminster Road, Auckland",543 m²,1975000,-36.8879558,174.754656,7005192,51,24,9,30,21,30,Mount Eden
+3,1,"56 Ardmore Road, Auckland",455 m²,2900000,-36.8492592,174.737546,7004906,81,18,24,45,30,18,Ponsonby
+3,1,"50 Wolverton Street, Auckland",723 m²,950000,-36.9082849,174.6976546,7007454,72,66,45,33,24,51,Avondale
+4,1,"24 Brabham Place, Auckland",1330 m²,1105000,-36.9074477,174.7006273,7007454,72,66,45,33,24,51,Avondale
+3,1,"14 Eastview Road, Auckland",725 m²,1180000,-36.8720864,174.853628,7006436,33,21,18,12,15,0,Glen Innes
+3,1,"31 Frost Road, Auckland",1568 m²,2450000,-36.9100148,174.7485246,7007699,57,42,33,21,27,27,Mount Roskill
+3,1,"10 Maui Pomare Street, Auckland",615 m²,940000,-36.914629,174.7074968,7007518,36,42,15,27,36,39,Blockhouse Bay
+4,3,"124 Terry Street, Auckland",558 m²,1290000,-36.9165093,174.7118018,7007524,30,18,18,15,18,24,Blockhouse Bay
+3,1,"240A Rosebank Road, Auckland",378 m²,790000,-36.886776,174.683863,7004323,60,39,36,27,24,30,Avondale
+4,3,"4 Evelyn Street, Auckland",304 m²,1280000,-36.9837092,174.8552113,7009397,42,63,30,21,15,33,Papatoetoe
+3,1,"73 Church Street, Auckland",675 m²,1500000,-36.9233319,174.7836727,7007896,27,33,33,36,48,57,Onehunga
+4,2,"lot 1/20 Cleland Crescent, Auckland",383 m²,980000,-36.9144781,174.7039619,7007519,21,27,18,18,18,24,Blockhouse Bay
+4,2,"75 Alberton Avenue, Auckland",592 m²,1340000,-36.8845926,174.724023,7004786,57,15,12,36,21,15,Mount Albert
+4,3,"4 Cove Lane, Auckland",701 m²,1650000,-36.9086949,174.8522534,7008443,21,15,6,12,42,78,Mount Wellington
+4,2,"1 Oranga Avenue, Auckland",612 m²,1025000,-36.9113139,174.7959982,7007965,72,36,39,24,21,30,Onehunga
+4,1,"6 Stanmore Road, Auckland",522 m²,1775000,-36.8621915,174.7308889,7004741,54,18,24,36,33,21,Grey Lynn
+5,3,"99A Oakdale Road, Auckland",446 m²,1350000,-36.9249153,174.748714,7007724,51,57,30,33,24,33,Mount Roskill
+5,2,"86 Terry Street, Auckland",625 m²,1085000,-36.9163791,174.7078997,7007528,39,21,24,18,9,27,Blockhouse Bay
+3,1,"167 Mount Smart Road, Auckland",584 m²,810000,-36.9155132,174.7941574,7007981,27,12,21,21,18,24,Onehunga
+4,2,"15 Eaton Road, Auckland",895 m²,1250000,-36.9221884,174.7512236,7007730,30,45,30,24,27,21,Hillsborough
+3,2,"62A Olsen Avenue, Auckland",417 m²,1225000,-36.9184865,174.7521391,7007730,30,45,30,24,27,21,Hillsborough
+5,3,"Lot 4 / 48 Tiverton Road, Auckland",184 m²,850000,-36.9052102,174.7061706,7004537,36,45,39,18,15,24,Avondale
+5,3,"Lot1/39 Bentleigh Avenue, Auckland",478 m²,1245000,-36.9045255,174.705919,7004537,36,45,39,18,15,24,New Windsor
+4,3,"Lot3/39 Bentleigh Avenue, Auckland",344 m²,1245000,-36.9045255,174.705919,7004537,36,45,39,18,15,24,New Windsor
+3,1,"6 Parawai Crescent, Auckland",496 m²,1400000,-36.8536208,174.7326333,7004711,63,33,42,33,30,48,Ponsonby
+3,1,"37 O'Donnell Avenue, Auckland",763 m²,1230000,-36.8984022,174.7287065,7004823,51,36,9,21,9,9,Wesley
+4,2,"4 Stephen Lysnar Place, Auckland",658 m²,910000,-36.9212074,174.7638353,7007773,33,21,15,24,9,24,Hillsborough
+5,4,"14 Taranaki Road, Auckland",483 m²,2475000,-36.8514061,174.8413399,7006284,12,6,18,18,15,33,Kohimarama
+4,3,"211B St Andrews Road, Auckland",708 m²,1675000,-36.9024169,174.7618185,7005472,36,21,18,18,21,24,Epsom
+4,2,"8B Queensway, Auckland",809 m²,1750000,-36.9042206,174.7612986,7005472,36,21,18,18,21,24,Three Kings
+4,3,"26 Margate Road, Auckland",365 m²,780000,-36.9113854,174.7047198,7007511,60,33,27,21,24,21,Blockhouse Bay
+5,3,"3 Carnarvon Avenue, Auckland",540 m²,2100000,-36.8576438,174.8696614,7006631,75,9,9,42,30,21,Glendowie
+5,5,"203B St Heliers Bay Road, Auckland",402 m²,2350000,-36.8619224,174.85722,7006421,42,3,9,24,6,42,St Heliers
+2,1,"39 Albert Street, Auckland",696 m²,680000,-36.8462198,174.7642776,7005269,18,36,39,18,12,15,Auckland Central
+3,1,"33 Commodore Drive, Auckland",688 m²,1000000,-36.9262521,174.7185203,7007576,45,21,21,21,15,33,Lynfield
+3,1,"44 Methuen Road, Auckland",498 m²,985000,-36.8991706,174.7051812,7004520,51,39,57,27,21,33,New Windsor
+3,1,"64 Marine Parade, Auckland",2168 m²,1940000,-36.8481896,174.7268372,7004704,66,15,12,42,45,39,Herne Bay
+3,2,"240 Remuera Road, Auckland",617 m²,3050000,-36.8790253,174.7913599,7005841,45,24,6,24,30,39,Remuera
+3,2,"10 Skippy Patuwai Lane, Auckland",268 m²,740000,-36.871324,174.856745,7006537,75,54,45,21,18,33,Glen Innes
+3,3,"83 St Heliers Bay Road, Auckland",1173 m²,3300000,-36.8544409,174.8592867,7006491,57,15,3,39,24,36,St Heliers
+5,3,"37B Meliora Place, Auckland",500 m²,1275000,-36.8884324,174.679423,7004325,45,54,30,39,33,60,Avondale
+3,2,"26 Crossfield Road, Auckland",1219 m²,2000000,-36.8619669,174.8695533,7006638,33,27,9,18,18,27,Glendowie
+3,1,"18 Peary Road, Auckland",658 m²,1475000,-36.8955756,174.7558628,7005222,33,33,36,24,18,27,Mount Eden
+4,2,"26 Arran Street, Auckland",674 m²,840000,-36.9058288,174.6953574,7004427,63,42,30,27,24,18,Avondale
+3,1,"40 Findlay Street, Auckland",961 m²,1820000,-36.8998764,174.8121941,7006033,18,15,18,15,9,18,Ellerslie
+5,4,"24A Fontenoy Street, Auckland",466 m²,1650000,-36.8763067,174.713555,7004598,42,30,39,21,18,30,Mount Albert
+5,4,"241 Whitney Street, Auckland",498 m²,1500000,-36.920822,174.7086401,7007534,33,21,24,12,21,27,Blockhouse Bay
+4,4,"39E St Stephens Avenue, Auckland",475 m²,4300000,-36.8577078,174.7866719,7005663,18,9,27,9,15,30,Parnell
+3,2,"50 Hackett Street, Auckland",258 m²,2200000,-36.8418233,174.7436499,7004861,12,27,15,9,24,12,Saint Marys Bay
+4,2,"76 Long Drive, Auckland",388 m²,1950000,-36.8569239,174.8530156,7006414,36,12,9,15,27,27,St Heliers
+5,3,"18C Tawera Road, Auckland",379 m²,2650000,-36.8901584,174.7909286,7005874,54,18,24,30,21,30,Greenlane
+3,1,"55 Mt Smart Road, Auckland",675 m²,1100000,-36.9134149,174.7815573,7007873,54,54,57,30,27,36,Onehunga
+4,2,"Lot 1-6/153 Penrose Road, Auckland",1133 m²,1280000,-36.9081328,174.8258697,7008240,24,12,15,12,15,21,Mount Wellington
+6,2,"47 Bell Road, Auckland",1190 m²,800000,-36.8721492,174.7931936,7005833,51,15,12,36,30,21,Remuera
+4,2,"21 Atherton Road, Auckland",921 m²,2400000,-36.895953,174.7663558,7005452,45,27,15,27,21,39,Epsom
+4,2,"5A May Road, Auckland",400 m²,1125000,-36.9035745,174.7391566,7005058,54,27,30,21,24,15,Wesley
+3,1,"46 Lingarth Street, Auckland",936 m²,2725000,-36.8705393,174.8031034,7005973,60,24,30,27,30,27,Remuera
+5,3,"16 Torrance Street, Auckland",926 m²,2150000,-36.9060592,174.7692548,7005634,39,24,18,30,33,45,Epsom
+4,2,"61C Castledine Crescent, Auckland",479 m²,1220000,-36.8691966,174.8547967,7006433,90,63,48,21,24,21,Glen Innes
+4,2,"40 Robert Street, Auckland",525 m²,1575000,-36.8937599,174.8091807,7006016,30,48,60,36,33,30,Ellerslie
+4,2,"31A Waimarie Street, Auckland",469 m²,2500000,-36.8507913,174.8667629,7006481,48,18,12,24,45,45,St Heliers
+5,3,"44B Bay Road, Auckland",498 m²,2650000,-36.8515996,174.8675866,7006481,48,18,12,24,45,45,St Heliers
+2,1,"63 Calgary Street, Auckland",531 m²,1220000,-36.8933679,174.7424117,7005002,42,48,36,30,21,30,Mount Eden
+5,4,"1158C New North Road, Auckland",329 m²,940000,-36.8931322,174.7081546,7004507,36,54,42,15,18,15,Mount Albert
+3,1,"20A Subritzky Avenue, Auckland",364 m²,1000000,-36.9142882,174.7238636,7007599,39,54,36,21,21,33,Mount Roskill
+4,3,"2 Spencer Street, Auckland",319 m²,2675000,-36.872813,174.7962419,7005834,36,21,12,21,15,30,Remuera
+5,3,"29A Walsall Street, Auckland",585 m²,1525000,-36.8934492,174.6987636,7004403,45,24,36,30,18,33,Avondale
+4,3,"25A Maroa Road, Auckland",306 m²,1025000,-36.9063092,174.8009368,7006024,48,36,27,24,12,9,One Tree Hill
+4,2,"47 Bluegrey Avenue, Auckland",200 m²,1425000,-36.886961,174.8399131,7006348,51,15,33,33,21,33,Stonefields
+4,2,"171 Balmoral Road, Auckland",573 m²,1220000,-36.8873627,174.7500048,7005189,39,27,12,27,12,9,Mount Eden
+3,2,"Lot 2, Auckland",201 m²,360000,-36.845533,174.758984,7005264,0,0,0,0,0,0,Auckland Central
+2,1,"17 Beatrix Street, Auckland",1108 m²,1600000,-36.888758,174.6954627,7004388,48,27,33,27,18,18,Avondale
+4,3,"243D St Johns Road, Auckland",300 m²,1450000,-36.8725166,174.8439794,7006323,36,30,45,24,15,27,Saint Johns
+4,2,"71 Tiverton Road, Auckland",1075 m²,1130000,-36.9063931,174.7067597,7007502,18,24,24,9,9,15,Avondale
+3,1,"67A Aranui Road, Auckland",475 m²,750000,-36.9155715,174.8310583,7008250,51,48,36,18,12,21,Mount Wellington
+4,3,"423C Blockhouse Bay Road, Auckland",303 m²,1000000,-36.917081,174.7014397,7007515,39,24,30,21,21,21,Blockhouse Bay
+5,4,"100 Market Road, Auckland",651 m²,3350000,-36.8851805,174.7818065,7005738,21,18,12,9,12,24,Epsom
+5,4,"60 St Leonards Road, Auckland",751 m²,770000,-36.8989069,174.6600901,7004241,87,42,30,27,24,15,Kelston
+5,3,"3A Milliken Avenue, Auckland",390 m²,845000,-36.9069713,174.7445629,7007697,39,48,15,21,18,27,Mount Roskill
+4,3,"58 Buckley Road, Auckland",221 m²,930000,-36.90843,174.7641962,7007749,36,21,15,21,24,27,Epsom
+5,4,"194 Riddell Road, Auckland",854 m²,3125000,-36.8620859,174.8790697,7006672,60,18,12,33,21,27,Glendowie
+5,3,"4C Rosedale Avenue, Auckland",220 m²,1240000,-36.8971339,174.7461594,7005229,42,51,51,12,30,27,Mount Eden
+4,2,"15 Belfast Street, Auckland",980 m²,980000,-36.9227584,174.7565188,7007735,36,33,27,21,21,24,Hillsborough
+2,1,"9 Victoria Street, Auckland",306 m²,780000,-36.8492709,174.7658971,7005287,45,147,60,12,6,6,Auckland Central
+3,3,"26 St Georges Bay Road, Auckland",607 m²,2900000,-36.8561916,174.7826401,7005688,42,69,42,33,42,60,Parnell
+4,3,"30 Pukehana Avenue, Auckland",814 m²,2425000,-36.9006191,174.7687509,7005629,54,27,18,27,33,30,Epsom
+4,1,"47 St Georges Road, Auckland",941 m²,910000,-36.9015478,174.696465,7004416,57,45,45,27,33,21,Avondale
+4,3,"2 Karakia Lane, Auckland",177 m²,970000,-36.9174364,174.7529711,7007726,51,36,51,24,15,39,Hillsborough
+3,1,"36 Haverstock Road, Auckland",723 m²,1140000,-36.8918396,174.7327926,7004805,27,27,27,15,18,9,Sandringham
+4,2,"11 Robson Street, Auckland",855 m²,1225000,-36.9185946,174.7302842,7007608,42,33,30,24,18,30,Mount Roskill
+5,2,"121 Melrose Road, Auckland",1459 m²,2025000,-36.9167656,174.7493226,7007715,45,45,36,21,30,30,Mount Roskill
+3,2,"90B Ireland Road, Auckland",328 m²,1080000,-36.9029523,174.8461357,7006469,12,15,27,27,12,21,Mount Wellington
+3,1,"15 Rangitoto Avenue, Auckland",1004 m²,2475000,-36.8773288,174.8057988,7005988,42,12,9,21,24,27,Remuera
+4,2,"47 Ngaroma Road, Auckland",1171 m²,2625000,-36.9000679,174.776469,7005611,15,18,3,6,30,30,Epsom
+4,3,"16 Kissling Place, Auckland",691 m²,1800000,-36.8752869,174.8411526,7006334,36,27,24,21,24,48,Saint Johns
+4,3,"65a Selwyn Avenue, Auckland",584 m²,1200000,-36.8513183,174.8356944,7006276,21,21,12,18,15,30,Mission Bay
+7,3,"1,2 & 3/466 Parnell Road, Auckland",729 m²,2000000,-36.861328,174.782615,7005669,36,33,33,33,12,42,Parnell
+5,4,"4 Kelvin Road, Auckland",650 m²,2675000,-36.879031,174.8175216,7006078,57,24,21,36,30,54,Remuera
+5,3,"268B Whitney Street, Auckland",506 m²,860000,-36.9197322,174.7091342,7007532,51,42,36,36,24,36,Blockhouse Bay
+4,1,"181 Taylor Street, Auckland",415 m²,1200000,-36.9195964,174.6996862,7007484,42,42,33,18,18,51,Blockhouse Bay
+5,4,"21A Mt Taylor Drive, Auckland",374 m²,1650000,-36.8660323,174.8612577,7006526,48,24,21,30,27,24,Glendowie
+4,2,"11 Glenalmond Road, Auckland",636 m²,1950000,-36.893461,174.7605983,7005445,30,15,9,21,21,9,Mount Eden
+3,1,"27 Cotswold Lane, Auckland",1204 m²,1100000,-36.9115203,174.8248397,7008243,42,36,36,21,15,15,Mount Wellington
+3,1,"18 Marlowe Road, Auckland",607 m²,840000,-36.9175687,174.6955736,7007476,27,21,27,6,9,45,Blockhouse Bay
+2,1,"91 Kurahaupo Street, Auckland",938 m²,1925000,-36.8548799,174.8255103,7006158,15,12,24,9,15,27,Orakei
+5,3,"110 Paritai Drive, Auckland",1262 m²,4650000,-36.8539847,174.8084146,7005960,18,33,18,12,27,33,Orakei
+5,4,"Lot 1/37 Littlejohn Street, Auckland",413 m²,1375000,-36.9179677,174.7551296,7007727,69,54,39,33,30,18,Hillsborough
+3,1,"341 Panama Road, Auckland",3361 m²,1650000,-36.9277462,174.8519919,7008449,78,54,42,30,24,15,Mount Wellington
+3,1,"58 Lynbrooke Avenue, Auckland",814 m²,1230000,-36.9251294,174.7103557,7007540,60,27,24,24,33,33,Blockhouse Bay
+4,2,"28 Grampian Road, Auckland",1100 m²,2550000,-36.8644882,174.8499098,7006418,39,9,12,24,24,33,St Heliers
+5,3,"101 Taumata Road, Auckland",524 m²,1875000,-36.8920958,174.7269886,7004801,36,48,27,21,18,24,Sandringham
+4,2,"3 Rawene Avenue, Auckland",721 m²,3400000,-36.8529937,174.7175488,7004566,30,18,6,18,15,30,Westmere
+3,1,"8 Burnett Avenue, Auckland",494 m²,770000,-36.9168981,174.7370148,7007663,42,39,9,24,18,12,Mount Roskill
+5,3,"41A Nihill Crescent, Auckland",1006 m²,2475000,-36.8531218,174.8322103,7006172,39,12,27,27,27,48,Mission Bay
+3,1,"1590A Great North Road, Auckland",1867 m²,2075000,-36.8847048,174.7022144,7004495,18,39,27,15,3,12,Waterview
+4,3,"114A Clonbern Road, Auckland",397 m²,1160000,-36.8876414,174.7966714,7005868,54,30,15,18,24,27,Remuera
+3,2,"591A Blockhouse Bay Road, Auckland",908 m²,1150000,-36.9265598,174.7008665,7007494,33,24,18,21,27,57,Blockhouse Bay
+4,3,"18a Campbell Road, Auckland",277 m²,1850000,-36.9106508,174.7778042,7007803,45,27,51,30,9,30,Royal Oak
+5,3,"62A Maioro Street, Auckland",308 m²,1250000,-36.9059437,174.7174915,7004668,39,51,21,15,33,27,New Windsor
+5,3,"9 Waitara Road, Auckland",888 m²,3500000,-36.8476216,174.869938,7006620,78,15,18,33,39,39,St Heliers
+5,3,"13B Waitara Road, Auckland",664 m²,3900000,-36.847171,174.8701092,7006620,78,15,18,33,39,39,St Heliers
+5,3,"5 Waitara Road, Auckland",889 m²,4100000,-36.8479192,174.8701244,7006620,78,15,18,33,39,39,St Heliers
+4,2,"498A Remuera Road, Auckland",677 m²,3450000,-36.8808042,174.8040785,7005992,42,27,12,21,30,33,Remuera
+3,1,"5 Parry Road, Auckland",670 m²,830000,-36.9339956,174.8450852,7008345,57,36,30,24,21,15,Mount Wellington
+4,2,"82 Gowing Drive, Auckland",837 m²,1850000,-36.8673214,174.8324686,7006199,36,24,24,21,27,12,Meadowbank
+6,4,"43 Arney Road, Auckland",3062 m²,12250000,-36.8725139,174.788572,7005696,60,12,15,27,24,33,Remuera
+4,2,"55A Arney Road, Auckland",652 m²,3450000,-36.872449,174.789432,7005696,60,12,15,27,24,33,Remuera
+3,2,"Lot 1  6/22 Ngaio Street, Auckland",971 m²,2425000,-36.9513274,174.8484951,7008497,42,27,33,15,24,21,Otahuhu
+4,2,"167B Blockhouse Bay Road, Auckland",344 m²,1000000,-36.8984767,174.7009007,7004411,36,27,21,24,15,18,Avondale
+3,1,"133 Mt Smart Road, Auckland",581 m²,990000,-36.9153146,174.7900799,7007881,45,24,30,18,24,12,Onehunga
+4,2,"67 Balmoral Road, Auckland",1743 m²,2375000,-36.8887978,174.7583858,7005430,60,51,30,39,18,18,Mount Eden
+4,2,"42B Marion Avenue, Auckland",350 m²,1150000,-36.9108802,174.7274244,7007594,51,60,39,18,30,21,Mount Roskill
+5,2,"23 Stoddard Road, Auckland",340 m²,760000,-36.9071565,174.7342241,7004840,42,33,33,21,27,60,Wesley
+5,3,"246 Victoria Avenue, Auckland",1080 m²,3750000,-36.8670837,174.7988069,7005826,33,18,9,15,30,42,Remuera
+5,2,"23 Wapiti Avenue, Auckland",620 m²,2250000,-36.8875514,174.7824492,7005743,51,24,12,21,27,33,Epsom
+5,6,"57 Portland Road, Auckland",3565 m²,12500000,-36.8755519,174.7954021,7005840,42,9,6,27,30,36,Remuera
+5,3,"11 Athenic Avenue, Auckland",736 m²,1175000,-36.9304223,174.7190441,7007584,30,36,27,21,30,24,Lynfield
+6,2,"24 & 24A Hutton Street, Auckland",2053 m²,1453000,-36.939243,174.847542,7008478,39,15,27,21,12,21,Otahuhu
+6,1,"410 Mount Eden Road, Auckland",640 m²,2925000,-36.8805028,174.7621859,7005403,36,63,12,27,21,27,Mount Eden
+3,1,"12 Stratford Street, Auckland",506 m²,2175000,-36.8538637,174.7851834,7005660,42,48,21,39,21,39,Parnell
+4,3,"126B Paritai Drive, Auckland",578 m²,4000000,-36.8544972,174.8100437,7005961,15,15,18,9,15,27,Orakei
+1,1,"24 Kohimarama Road, Auckland",252 m²,920000,-36.8494974,174.8398151,7006283,9,12,15,12,21,54,Kohimarama
+4,1,"19 Landscape Road, Auckland",1368 m²,670000,-36.899255,174.7611645,7005464,54,18,15,24,21,27,Mount Eden
+6,1,"56 Galway Street, Auckland",607 m²,1200000,-36.844933,174.770001,7005497,15,27,24,15,18,30,Auckland Central
+5,3,"28A Hayr Road, Auckland",453 m²,1250000,-36.9122424,174.7567259,7007758,36,30,45,21,24,21,Three Kings
+5,2,"27 Market Road, Auckland",1854 m²,5300000,-36.8796648,174.7876684,7005745,48,18,12,15,36,45,Remuera
+3,1,"23 William Avenue, Auckland",806 m²,1665000,-36.8971043,174.8001712,7005917,54,33,27,27,15,30,Greenlane

@@ -1,0 +1,10 @@
+.SearchBarContainer {
+    margin: auto;
+    margin: 20px;
+}
+
+.MuiGrid-root div{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
