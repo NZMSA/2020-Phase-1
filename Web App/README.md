@@ -284,7 +284,7 @@ export default App;
 
 The first set of component that we will create is the Search bar. For the search bar we want to be able to search by text and also apply a date for the range we search by. So to achieve this we will have a text field and two pickers one for the start date and one for the end date finally one button to confirm the search.
 
-To achieve this lets first begin by creating a new folder in the src folder called `Components` and within this folder create a folder for our search bar `SearchBar`. Inside this folder create one file called `SearchBar.tsx` and one called `SearchBar.css` that will store our react component and the appropriate css respectively.
+To achieve this lets first begin by creating a new folder in the src folder called `Components` and within this folder create a folder for our search bar `SearchBarComponent`. Inside this folder create one file called `SearchBar.tsx` and one called `SearchBar.css` that will store our react component and the appropriate css respectively.
 
 In the `SearchBar.tsx` lets begin by defining the outline for a functional component. We can do this by adding the following.
 
@@ -496,7 +496,7 @@ Finally we need a way to let the user decide when they have confirmed their sele
     </div>
 ```
 
-Now we will want to create a common interface that will be used to represent the search bars selection. Lets make a new folder in `src` called `Common` and inside lets have a file called `interfaces.ts` all this file will do is export our interfaces that are to be used in multiple components to avoid duplication. Add the following to the Interfaces file
+Now we will want to create a common interface that will be used to represent the search bars selection. Lets make a new folder in `src` called `Common` and inside lets have a file called `Interfaces.ts` all this file will do is export our interfaces that are to be used in multiple components to avoid duplication. Add the following to the Interfaces file
 
 ```ts
 export interface IUserInput {
