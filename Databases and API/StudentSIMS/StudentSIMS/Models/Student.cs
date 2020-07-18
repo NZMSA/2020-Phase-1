@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Threading.Tasks;
 
 // namespace contains the collections of symbols/methods so each is uniquely identified
 // here the class Student belongs to the namespace StudentSIMS.Models, you can use access
@@ -20,16 +17,14 @@ namespace StudentSIMS.Models
         // generated once when the row is first created, and it cannot be updated
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int studentId { get; set; }
-        // fisrtName is required when adding a Student to the database, and it will have 100 characters max
+        // firstName is required when adding a Student to the database, and it will have 100 characters max
         [Required, MaxLength(100)]
         public string firstName { get; set; }
-        public string midlleName { get; set; }
+        public string middleName { get; set; }
         [Required]
         public string lastName { get; set; }
         public string emailAddress { get; set; }
         public int phoneNumber { get; set; }
-        // assign Timestamp type to the timeCreated attribute
-        [Timestamp]
         public DateTime timeCreated { get; set; }
     }
 }
