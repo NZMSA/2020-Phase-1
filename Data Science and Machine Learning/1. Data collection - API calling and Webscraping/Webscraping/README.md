@@ -11,7 +11,7 @@ non javascript webpages in the tutorial. Feel free to email me your scraping cod
 Note I have uploaded 2 spiders, one of them I demonstrated in the video, the other is so you have more examples. I really hope you guys have a crack at using this!    
   
 ## Video tutorials <a name="Vid"></a>
-* [Webscraping tutorial](VIDEO LINK! Webscraping video here) (45mins)  
+* [Webscraping tutorial](https://youtu.be/gNJxumBknck) (45mins)  
 
 ## Software requirements <a name="software"></a>
 For webscraping with Scrapy it is recommended that you install the Anaconda distribution package, as it contains numerous data science software

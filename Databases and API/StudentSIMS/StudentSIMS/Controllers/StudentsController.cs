@@ -53,7 +53,18 @@ namespace StudentSIMS.Controllers
                 return BadRequest();
             }
 
-            _context.Entry(student).State = EntityState.Modified;
+            if (!StudentExists(id))
+            {
+                return BadRequest();
+            }
+
+            var updateStudent = await _context.Student.FirstOrDefaultAsync(s => s.studentId == student.studentId);
+            _context.Entry(updateStudent).State = EntityState.Modified;
+
+            updateStudent.firstName = student.firstName;
+            updateStudent.lastName = student.lastName;
+            updateStudent.emailAddress = student.emailAddress;
+            updateStudent.phoneNumber = student.phoneNumber;
 
             try
             {
@@ -80,6 +91,7 @@ namespace StudentSIMS.Controllers
         [HttpPost]
         public async Task<ActionResult<Student>> PostStudent(Student student)
         {
+            student.timeCreated = DateTime.Now;
             _context.Student.Add(student);
             await _context.SaveChangesAsync();
 

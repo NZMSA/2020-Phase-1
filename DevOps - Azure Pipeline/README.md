@@ -383,7 +383,7 @@ Complete the following Microsoft Learn modules:
 
 ![Invite member to AzureDevOps project](./images/azure_devops_invite_member.png)
 
-* Add Karim-C and Paulvtan to your GitHub repository (GitHub Repo -> Settings -> Manage access -> Invite a collaborator -> Copy the pending invite link)
+* Add `Karim-C` and `Paulvtan` to your GitHub repository (GitHub Repo -> Settings -> Manage access -> Invite a collaborator -> Copy the pending invite link)
 
 ![Invite member to AzureDevOps project](./images/github_collaborator_invite.png)
 
@@ -395,7 +395,9 @@ Make sure to have the following ready when you submit.
    * Enable a continuous deployment to create releases on new commits to `develop` and `master` branches.
 2. Azure release pipeline
    * Enable a continuous deployment to deploy your release to Azure for new commits to `master` branch.
-3. A deployed website on Azure (Submit the URL of your website)
-4. GitHub repo (Add us as contributor → Submit the invite link)
-5. Write a short description of your build and release pipelines in your GitHub README (This is a your chance to explain to us what you have implemented for your build & release pipeline and why 😃)
+3. A deployed website on Azure (Add the URL of your website on your project README)
+4. Write a short description of your build and release pipelines in your project README (This is a your chance to explain to us what you have implemented for your build & release pipeline and why 😃)
+5. GitHub repo (Add us as contributor → Submit the invite link)
+
+Submission form on the main page
 
