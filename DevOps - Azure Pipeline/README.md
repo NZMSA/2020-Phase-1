@@ -342,7 +342,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://msa.azurewebsites.net/"
+          href="https://aka.ms/nzmsawebsite"
           target="_blank"
           rel="noopener noreferrer"
         >
