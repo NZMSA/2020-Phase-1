@@ -15,10 +15,10 @@ Come visit our website to understand what we do: [Microsoft Student Accelerator 
     * Model building - Python and R
 
 To pass phase 1, you must complete one of the following paths:
-* Frontend Path ([React Web App](Web%20App/README.md) & [DevOps - Azure Pipeline](DevOps%20-%20Azure%20Pipeline/README.md))
-* Backend Path ([Databases and API](Databases%20and%20API/README.md) & [DevOps - Azure Pipeline](DevOps%20-%20Azure%20Pipeline/README.md))
-* Full Stack Development Path ([React Web App](Web%20App/README.md) & [Databases and API](Databases%20and%20API/README.md) & [DevOps - Azure Pipeline](DevOps%20-%20Azure%20Pipeline/README.md))
-* [Data Science Path](Data%20Science%20and%20Machine%20Learning/README.MD)
+* Frontend Path ([React Web App](Web%20App) & [DevOps - Azure Pipeline](DevOps%20-%20Azure%20Pipeline))
+* Backend Path ([Databases and API](Databases%20and%20API) & [DevOps - Azure Pipeline](DevOps%20-%20Azure%20Pipeline))
+* Full Stack Development Path ([React Web App](Web%20App) & [Databases and API](Databases%20and%20API) & [DevOps - Azure Pipeline](DevOps%20-%20Azure%20Pipeline))
+* [Data Science Path](Data%20Science%20and%20Machine%20Learning)
 
 If you choose the Full Stack Development Pathway, we **strongly recommend** you to complete the Full Stack Development Path, instead of the sub paths which are Frontend Path / Backend Path. Doing so will improve your understanding and make phase 2 significantly easier. 
 
